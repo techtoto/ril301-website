@@ -281,6 +281,7 @@ Ein gelbes Licht mit einem gelben Lichtstreifen, darüber ein gelbes Licht.
 ![](assets/301_0103/301_0103_Hl12b.svg)
 
 ---
+---
 
 # Anhang 1: Übersicht zu den Lichtsignalen Hl 1 bis Hl 12 (DV 301) (301.0103A01)
 

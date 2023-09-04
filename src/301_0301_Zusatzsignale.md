@@ -418,6 +418,7 @@ Eine rechteckige schwarze Tafel mit weißen Rauten.
 Die Rautentafel ist am Hauptsignal angebracht.
 
 ---
+---
 
 # Zusatzsignale (Zs) – Gleichstrom-S-Bahn Hamburg (301.0301Z41)
 
