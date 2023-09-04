@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="45.783mm" height="27.517mm" version="1.1" viewBox="0 0 45.783 27.517" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath669">
+   <path transform="translate(-244.56 -603.8)" d="m240.36 556.82h4.5v47.22h-4.5z"/>
+  </clipPath>
+  <clipPath id="clipPath671">
+   <path transform="translate(-244.56 -603.8)" d="m240.36 556.82h4.5v47.22h-4.5z"/>
+  </clipPath>
+  <clipPath id="clipPath679">
+   <path transform="translate(-330.6 -606.2)" d="m309 570.8h42.24v36.42h-42.24z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-84.931 -60.854)">
+  <path d="m91.683 88.328h1.397v-16.531h-1.397z" fill="#848382"/>
+  <path transform="matrix(.35278 0 0 -.35278 93.08 71.797)" d="m-3.96 0h3.96v-46.86h-3.96z" clip-path="url(#clipPath669)" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".287"/>
+  <path transform="matrix(.35278 0 0 -.35278 93.08 71.797)" d="m0 0z" clip-path="url(#clipPath671)" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".287"/>
+  <path d="m92.424 73.173-7.0485-12.065h14.012l-6.9638 12.065" fill="#fff" fill-rule="evenodd"/>
+  <path d="m92.212 73.3-7.0697-12.065 0.4445-0.254 7.0697 12.065zm-7.0697-12.065-0.21167-0.381h0.4445v0.254zm0.23283-0.381h14.012v0.508h-14.012zm14.012 0h0.4445l-0.21167 0.381-0.23283-0.127zm0.23283 0.381-6.9638 12.065-0.4445-0.254 6.9638-12.065zm-6.9638 12.065-0.23283 0.381-0.21167-0.381 0.21167-0.127 0.23283 0.127" fill="#1f1a17"/>
+  <text transform="scale(.99978 1.0002)" x="88.972038" y="67.20974" font-size="4.2343px" stroke-width=".35286" xml:space="preserve"><tspan x="88.972038 92.591499" y="67.20974" fill="#1f1a17" font-family="Arial" font-size="6.497px" stroke-width=".35286">60</tspan></text>
+  <path d="m122.56 88.307h1.397v-5.4822h-1.397z" fill="#848382"/>
+  <path d="m122.56 82.825h1.397v5.4822h-1.397z" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".10125"/>
+  <path d="m123.96 82.825z" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".10125"/>
+  <path d="m123.22 71.077 7.0485 12.086h-14.012l6.9638-12.086" fill="#fff" fill-rule="evenodd"/>
+  <path transform="matrix(.35278 0 0 -.35278 123.43 70.95)" d="m0 0 20.04-34.26-1.26-0.72-20.04 34.26zm20.04-34.26 0.6-1.08h-1.26v0.72zm-0.66-1.08h-39.72v1.4399h39.72zm-39.72 0h-1.26l0.6 1.08 0.66-0.36zm-0.66 1.08 19.74 34.26 1.26-0.72-19.74-34.26zm19.74 34.26 0.66 1.02 0.6-1.02-0.6-0.36-0.66 0.36" clip-path="url(#clipPath679)" fill="#1f1a17"/>
+  <text transform="scale(.99978 1.0002)" x="119.79757" y="81.853783" font-size="4.2343px" stroke-width=".35286" xml:space="preserve"><tspan x="119.79757 123.41703" y="81.853783" fill="#1f1a17" font-family="Arial" font-size="6.497px" stroke-width=".35286">60</tspan></text>
+ </g>
+</svg>

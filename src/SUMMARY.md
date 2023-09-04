@@ -9,7 +9,7 @@
 - [Vorsignale (Vr)](./301_0201_Vorsignale.md)
 - [Zusatzsignale (Zs)](./301_0301_Zusatzsignale.md)
 - [Signale für Schiebelokomotiven und Sperrfahrten (Ts)](./301_0401_Signale%20für%20Schiebelokomotiven%20und%20Sperrfahrten.md)
-- [Langsamfahrsignale (Lf)]()
+- [Langsamfahrsignale (Lf)](./301_0501_Langsamfahrsignale.md)
 - [Schutzsignale (Sh)]()
 - [Signale für den Rangierdienst (Ra)]()
 - [Weichensignale (Wn)]()
