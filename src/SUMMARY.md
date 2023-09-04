@@ -8,3 +8,4 @@
 - [Haupt- und Vorsignalverbindungen (Sv)](./301_0104_Haupt-%20und%20Vorsignalverbindungen.md)
 - [Vorsignale (Vr)](./301_0201_Vorsignale.md)
 - [Zusatzsignale (Zs)](./301_0301_Zusatzsignale.md)
+- [Signale für Schiebelokomotiven und Sperrfahrten (Ts)](./301_0401_Signale%20für%20Schiebelokomotiven%20und%20Sperrfahrten.md)
