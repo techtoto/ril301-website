@@ -19,7 +19,7 @@ und für Sperrfahrten, die zum Ausgangsbahnhof zurückkehren.
 
 Um 90° nach rechts umgelegtes weißes T auf schwarzer Rechteckscheibe.
 
-![](assets/301_0501/301_0501_Ts1.svg)
+![](assets/301_0401/301_0401_Ts1.svg)
 
 ---
 
@@ -33,7 +33,7 @@ Um 90° nach rechts umgelegtes weißes T auf schwarzer Rechteckscheibe.
 
 Quadratische, auf der Spitze stehende weiße Scheibe mit schwarzem Rand.
 
-![](assets/301_0501/301_0501_Ts2.svg)
+![](assets/301_0401/301_0401_Ts2.svg)
 
 ---
 
@@ -47,7 +47,7 @@ Quadratische, auf der Spitze stehende weiße Scheibe mit schwarzem Rand.
 
 Auf Signal Ts 2 ein schwarzer nach rechts steigender Streifen.
 
-![](assets/301_0501/301_0501_Ts3.svg)
+![](assets/301_0401/301_0401_Ts3.svg)
 
 ---
 
