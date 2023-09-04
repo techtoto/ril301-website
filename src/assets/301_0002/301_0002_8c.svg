@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="5.237mm" height="19.736mm" version="1.1" viewBox="0 0 5.237 19.736" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath36">
+   <path transform="translate(0 2.5e-5)" d="m303.66 476.24h14.88v11.46h-14.88z"/>
+  </clipPath>
+  <clipPath id="clipPath39">
+   <path transform="translate(0 2.5e-5)" d="m303.66 431.72h14.88v11.58h-14.88z"/>
+  </clipPath>
+  <clipPath id="clipPath42">
+   <path transform="translate(0 2.5e-5)" d="m303.66 465.14h14.88v11.52h-14.88z"/>
+  </clipPath>
+  <clipPath id="clipPath45">
+   <path transform="translate(0 2.5e-5)" d="m303.66 453.92h14.88v11.64h-14.88z"/>
+  </clipPath>
+  <clipPath id="clipPath48">
+   <path transform="translate(0 2.5e-5)" d="m303.66 442.88h14.88v11.46h-14.88z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-102.39 -138.64)">
+  <path d="m102.43 142.59h5.1647v-3.9158h-5.1647z" fill="#fff"/>
+  <path transform="matrix(.35278 0 0 -.35278 -4.7369 310.69)" d="m303.78 487.58h14.64v-11.1h-14.64z" clip-path="url(#clipPath36)" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".205"/>
+  <path d="m102.43 158.34h5.1647v-3.9793h-5.1647z" fill="#fff"/>
+  <path transform="matrix(.35278 0 0 -.35278 -4.7369 310.69)" d="m303.78 443.12h14.64v-11.28h-14.64z" clip-path="url(#clipPath39)" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".205"/>
+  <path d="m102.43 146.51h5.1647v-3.9158h-5.1647z" fill="#1f1a17"/>
+  <path transform="matrix(.35278 0 0 -.35278 -4.7369 310.69)" d="m303.78 476.48h14.64v-11.1h-14.64z" clip-path="url(#clipPath42)" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".205"/>
+  <path d="m102.43 150.47h5.1647v-3.9582h-5.1647z" fill="#fff"/>
+  <path transform="matrix(.35278 0 0 -.35278 -4.7369 310.69)" d="m303.78 465.38h14.64v-11.22h-14.64z" clip-path="url(#clipPath45)" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".205"/>
+  <path d="m102.43 154.36h5.1647v-3.8947h-5.1647z" fill="#1f1a17"/>
+  <path transform="matrix(.35278 0 0 -.35278 -4.7369 310.69)" d="m303.78 454.16h14.64v-11.04h-14.64z" clip-path="url(#clipPath48)" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".205"/>
+ </g>
+</svg>
