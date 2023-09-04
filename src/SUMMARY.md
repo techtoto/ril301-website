@@ -5,3 +5,4 @@
 - [Hauptsignale (Hp)](./301_0101_Hauptsignale.md)
 - [Kombinationssignale (Ks)](./301_0102_Kombinationssignale.md)
 - [Lichthaupt- und Lichtvorsignale (Hl)](./301_0103_Lichthaupt-%20und%20Lichtvorsignale.md)
+- [Haupt- und Vorsignalverbindungen (Sv)](./303_0104_Haupt-%20und%20Vorsignalverbindungen.md)
