@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="14.012mm" height="19.717mm" version="1.1" viewBox="0 0 14.012 19.717" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath85">
+   <path transform="translate(-266.88 -594.56)" d="m260.16 578.84h6.78v15.72h-6.78z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-104.25 -160.6)">
+  <path transform="matrix(.35278 0 0 -.35278 112.41 174.77)" d="m0 0v-15.72h-6.72v15.72h6.72" clip-path="url(#clipPath85)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width=".06"/>
+  <path d="m110.03 180.32h2.3707v-5.5457h-2.3707z" fill="#7e7e7e"/>
+  <path d="m104.26 174.67h13.991v-14.055h-13.991z"/>
+  <g stroke="#000" stroke-miterlimit="10" stroke-width=".021167">
+   <path d="m104.26 160.61h13.991v14.055h-13.991v-14.055" fill="none"/>
+   <path d="m111.28 162.58 0.508 0.0212 0.48683 0.0847c5.631 1.3854 5.2328 9.1595-0.48683 10.012h-1.0583c-5.7192-0.84067-6.1366-8.6053-0.508-10.012l0.508-0.0847 0.55033-0.0212" fill="#fff" fill-rule="evenodd"/>
+   <path d="m105.67 171.53 9.4403-9.5038 1.7145 1.7357-9.4615 9.4403-1.6933-1.6722" fill-rule="evenodd"/>
+  </g>
+ </g>
+</svg>
