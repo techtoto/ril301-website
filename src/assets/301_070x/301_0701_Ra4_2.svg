@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="19.05mm" height="38.798mm" version="1.1" viewBox="0 0 19.05 38.798" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath208">
+   <path transform="translate(-302.64 -449.48)" d="m291.84 437.6h10.86v11.88h-10.86z"/>
+  </clipPath>
+  <clipPath id="clipPath211">
+   <path transform="translate(2.5e-5 2.5e-5)" d="m273.24 468.8h42.24v2.1h-42.24z"/>
+  </clipPath>
+  <clipPath id="clipPath214">
+   <path transform="translate(2.5e-5 2.5e-5)" d="m273.24 495.8h42.24v2.1h-42.24z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-39.158 -160.87)" fill="#1e1917">
+  <path transform="matrix(.35278 0 0 -.35278 53.679 195.47)" d="M 0,0 -4.92,-11.88 -10.8,-0.12 0,0" clip-path="url(#clipPath208)" fill-rule="evenodd"/>
+  <path d="m43.349 190.18-4.191-1.7357 4.1487-2.0955 0.04233 3.8312" fill-rule="evenodd"/>
+  <path transform="matrix(.35278 0 0 -.35278 -53.086 354.04)" d="m273.24 468.86h42.24v2.04h-42.24z" clip-path="url(#clipPath211)"/>
+  <path d="m43.349 180.68-4.191-1.7568 4.1487-2.0743 0.04233 3.8312" fill-rule="evenodd"/>
+  <path transform="matrix(.35278 0 0 -.35278 -53.086 354.04)" d="m273.24 495.86h42.24v2.04h-42.24z" clip-path="url(#clipPath214)"/>
+  <path d="m51.414 195.88h0.71967v-35.01h-0.71967z"/>
+ </g>
+</svg>
