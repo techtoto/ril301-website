@@ -22,6 +22,8 @@ Richtlinie 301.0703).
 
 # Signale für den Rangierdienst (Ra) – A. Rangiersignale (301.0701)
 
+---
+
 # 1. Allgemeines
 
 ## (1)
@@ -208,6 +210,8 @@ wird.
 
 # Signale für den Rangierdienst (Ra) – B. Abdrücksignale (301.0702)
 
+---
+
 # 1. Allgemeines
 
 ## (1) Zweck
@@ -326,6 +330,8 @@ Ablaufberg wegfahren.
 
 # Signale für den Rangierdienst (Ra) – C. Sonstige Signale für den Rangierdienst (301.0703)
 
+---
+
 # 1. Signal Ra 10 – Rangierhalttafel
 
 ## (1) Bedeutung
@@ -398,6 +404,8 @@ Das Signal kann bei Dunkelheit beleuchtet sein.
 ---
 
 # 3. Signal Ra 12 (DS 301) / Signal So 12 (DV 301) – Grenzzeichen
+
+---
 
 ## (1) Bedeutung
 
