@@ -1,4 +1,4 @@
-# Hauptsignale (Hp) (301.0101)
+# Hauptsignale (Hp) [301.0101]
 
 ---
 

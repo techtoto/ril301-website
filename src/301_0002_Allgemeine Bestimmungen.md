@@ -1,4 +1,4 @@
-# Allgemeine Bestimmungen (301.0002)
+# Allgemeine Bestimmungen [301.0002]
 
 ---
 

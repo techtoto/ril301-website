@@ -1,4 +1,4 @@
-# Weichensignale (Wn) (301.0801)
+# Weichensignale (Wn) [301.0801]
 
 ---
 

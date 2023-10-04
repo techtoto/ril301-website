@@ -1,4 +1,4 @@
-# Nebensignale (Ne), (So – DV 301) (301.1401)
+# Nebensignale (Ne), (So – DV 301) [301.1401]
 
 ---
 

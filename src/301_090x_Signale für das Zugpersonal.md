@@ -1,4 +1,4 @@
-# Signale für das Zugpersonal (Zp) – Signale des Triebfahrzeugführers (301.0901)
+# Signale für das Zugpersonal (Zp) – Signale des Triebfahrzeugführers [301.0901]
 
 ---
 
@@ -104,7 +104,7 @@ Das Signal gilt für alle Mitarbeiter.
 ---
 ---
 
-# Signale für das Zugpersonal (Zp) – Bremsprobesignale (301.0902)
+# Signale für das Zugpersonal (Zp) – Bremsprobesignale [301.0902]
 
 ---
 
@@ -200,7 +200,7 @@ Die Aufnahme des Handsignals ist zu bestätigen.
 ---
 ---
 
-# Signale für das Zugpersonal (Zp) – Abfahrsignal, Türschließauftrag (301.0903)
+# Signale für das Zugpersonal (Zp) – Abfahrsignal, Türschließauftrag [301.0903]
 
 ---
 
@@ -276,7 +276,7 @@ BILD
 ---
 ---
 
-# Signale für das Zugpersonal (Zp) – Rufsignale (301.0904)
+# Signale für das Zugpersonal (Zp) – Rufsignale [301.0904]
 
 ---
 

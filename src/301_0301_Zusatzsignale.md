@@ -1,4 +1,4 @@
-# Zusatzsignale (Zs) (301.0301)
+# Zusatzsignale (Zs) [301.0301]
 
 ---
 

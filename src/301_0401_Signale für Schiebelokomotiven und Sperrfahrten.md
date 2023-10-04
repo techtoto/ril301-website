@@ -1,4 +1,4 @@
-# Signale für Schiebelokomotiven und Sperrfahrten (Ts) (301.0401)
+# Signale für Schiebelokomotiven und Sperrfahrten (Ts) [301.0401]
 
 ---
 

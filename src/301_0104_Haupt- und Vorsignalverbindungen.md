@@ -1,4 +1,4 @@
-# Haupt- und Vorsignalverbindungen (Sv) (301.0104)
+# Haupt- und Vorsignalverbindungen (Sv) [301.0104]
 
 ---
 

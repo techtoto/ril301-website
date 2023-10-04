@@ -1,4 +1,4 @@
-# Rottenwarnsignale (Ro) (301.1301)
+# Rottenwarnsignale (Ro) [301.1301]
 
 ---
 

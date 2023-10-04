@@ -1,4 +1,4 @@
-# Signale an einzelnen Fahrzeugen (Fz) (301.1201)
+# Signale an einzelnen Fahrzeugen (Fz) [301.1201]
 
 ---
 

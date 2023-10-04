@@ -1,4 +1,4 @@
-# Fahrleitungssignale (El) (301.1001)
+# Fahrleitungssignale (El) [301.1001]
 
 ---
 

@@ -1,4 +1,4 @@
-# Signale an Zügen (Zg) (301.1101)
+# Signale an Zügen (Zg) [301.1101]
 
 ---
 

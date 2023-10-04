@@ -1,4 +1,4 @@
-# Signale für den Rangierdienst (Ra) – Allgemeines (301.0700)
+# Signale für den Rangierdienst (Ra) – Allgemeines [301.0700]
 
 ---
 
@@ -20,7 +20,7 @@ Richtlinie 301.0703).
 ---
 ---
 
-# Signale für den Rangierdienst (Ra) – A. Rangiersignale (301.0701)
+# Signale für den Rangierdienst (Ra) – A. Rangiersignale [301.0701]
 
 ---
 
@@ -208,7 +208,7 @@ wird.
 ---
 ---
 
-# Signale für den Rangierdienst (Ra) – B. Abdrücksignale (301.0702)
+# Signale für den Rangierdienst (Ra) – B. Abdrücksignale [301.0702]
 
 ---
 
@@ -328,7 +328,7 @@ Ablaufberg wegfahren.
 ---
 ---
 
-# Signale für den Rangierdienst (Ra) – C. Sonstige Signale für den Rangierdienst (301.0703)
+# Signale für den Rangierdienst (Ra) – C. Sonstige Signale für den Rangierdienst [301.0703]
 
 ---
 

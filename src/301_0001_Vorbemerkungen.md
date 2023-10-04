@@ -1,4 +1,4 @@
-# Vorbemerkungen zum Signalbuch (301.0001)
+# Vorbemerkungen zum Signalbuch [301.0001]
 
 ---
  

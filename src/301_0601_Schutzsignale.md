@@ -1,4 +1,4 @@
-# Schutzsignale (Sh) (301.0601)
+# Schutzsignale (Sh) [301.0601]
 
 ---
 

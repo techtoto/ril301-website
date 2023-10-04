@@ -1,4 +1,4 @@
-# Lichthaupt- und Lichtvorsignale (Hl) (DV 301) (301.0103)
+# Lichthaupt- und Lichtvorsignale (Hl) (DV 301) [301.0103]
 
 ---
 

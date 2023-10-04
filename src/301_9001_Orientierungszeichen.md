@@ -1,4 +1,4 @@
-# Orientierungszeichen (301.9001)
+# Orientierungszeichen [301.9001]
 
 ---
 

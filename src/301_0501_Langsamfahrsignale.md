@@ -1,4 +1,4 @@
-# Langsamfahrsignale (Lf) (301.0501)
+# Langsamfahrsignale (Lf) [301.0501]
 
 ---
 

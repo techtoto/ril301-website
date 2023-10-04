@@ -1,4 +1,4 @@
-# Signale für Bahnübergänge (Bü), (So, Pf (DV 301)) (301.1501)
+# Signale für Bahnübergänge (Bü), (So, Pf (DV 301)) [301.1501]
 
 ---
 

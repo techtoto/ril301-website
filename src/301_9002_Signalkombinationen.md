@@ -1,4 +1,4 @@
-# Signalkombinationen (Sk) (301.9002)
+# Signalkombinationen (Sk) [301.9002]
 
 ---
 

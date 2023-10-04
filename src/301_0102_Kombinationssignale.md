@@ -1,4 +1,4 @@
-# Kombinationssignale (Ks) (301.0102)
+# Kombinationssignale (Ks) [301.0102]
 
 ---
 
