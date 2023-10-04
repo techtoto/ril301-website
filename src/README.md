@@ -23,3 +23,13 @@ Die Inhalte dieser Website erheben keinen Anspruch auf Vollständigkeit und Rich
 
 Die Abbildungen sind naturgemäß auf einen weißen Hintergrund ausgelegt, welcher oben links beim
 Pinsel-Icon *(change theme)* ausgewählt werden kann.
+
+---
+
+## Technisches
+
+Der Quellcode dieses Projekts ist auf [GitHub](https://github.com/techtoto/ril301-website) zu finden.
+Bei Fehlern, Anmerkungen oder Verbesserungsvorschlägen sind das Erstellen eines [Issues](https://github.com/techtoto/ril301-website/issues)
+oder gleich einer [Pull Request](https://github.com/techtoto/ril301-website/pulls) herzlich willkommen.
+
+Zur Darstellung der Markdown-Files wird das Tool [mdBook](https://rust-lang.github.io/mdBook/) genutzt.
