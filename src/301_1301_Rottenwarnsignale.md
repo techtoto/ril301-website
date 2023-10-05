@@ -27,7 +27,7 @@ Sie sind auch zu beachten, wenn sie nur in einer Tonlage gehört werden.
 
 Mit dem Horn ein langer Ton als Mischklang aus zwei verschieden hohen Tönen.
 
-BILD
+![](assets/301_1301/301_1301_Ro1.svg)
 
 ---
 
@@ -41,7 +41,7 @@ BILD
 
 Mit dem Horn zwei lange Töne nacheinander in verschiedener Tonlage.
 
-BILD
+![](assets/301_1301/301_1301_Ro2.svg)
 
 ---
 
@@ -55,7 +55,7 @@ BILD
 
 Mit dem Horn mindestens fünfmal je zwei kurze Töne nacheinander in verschiedener Tonlage.
 
-BILD
+![](assets/301_1301/301_1301_Ro3.svg)
 
 ---
 
@@ -69,7 +69,7 @@ BILD
 
 Ein weißes Fahnenschild mit schwarzem Rand.
 
-BILD
+![](assets/301_1301/301_1301_Ro4.svg)
 
 ## (3)
 
