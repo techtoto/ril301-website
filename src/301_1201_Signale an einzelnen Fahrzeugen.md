@@ -53,7 +53,7 @@ besetzt sind.**
 Tageszeichen:
 An jeder Langseite des Wagens eine gelbe Fahne oder gelbe Tafel.
 
-BILD
+![](assets/301_1201/301_1201_Fz2.svg)
 
 Nachtzeichen:
 Das Tageszeichen; außerdem der Wagen nach außen erkennbar im Inneren
