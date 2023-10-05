@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="10.583mm" height="2.794mm" version="1.1" viewBox="0 0 10.583 2.794" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath41-7">
+   <path transform="translate(0 2.5e-5)" d="m226.02 557.24h30v7.92h-30z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-72.76 -129.12)">
+  <path transform="matrix(.35278 0 0 -.35278 -6.9744 328.49)" d="m226.02 557.24h30v7.92h-30z" clip-path="url(#clipPath41-7)" fill="#1e1917"/>
+ </g>
+</svg>

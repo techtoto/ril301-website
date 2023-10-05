@@ -17,7 +17,7 @@ Die hörbaren Signale werden mit der Pfeife oder der sie ersetzenden Einrichtung
 
 Ein mäßig langer Ton.
 
-BILD
+![](assets/301_090x/301_0901_Zp1.svg)
 
 ## (3) Zweck
 
@@ -52,7 +52,7 @@ Sicherung und ohne Drehkreuze oder andere Abschlüsse wiederholt zu geben; wenn 
 
 Ein kurzer Ton.
 
-BILD
+![](assets/301_090x/301_0901_Zp2.svg)
 
 ---
 
@@ -66,7 +66,7 @@ BILD
 
 Drei kurze Töne schnell hintereinander.
 
-BILD
+![](assets/301_090x/301_0901_Zp3.svg)
 
 ---
 
@@ -80,7 +80,7 @@ BILD
 
 Zwei mäßig lange Töne nacheinander.
 
-BILD
+![](assets/301_090x/301_0901_Zp4.svg)
 
 ---
 
@@ -95,7 +95,7 @@ leisten.**
 
 Mehrmals drei kurze Töne schnell nacheinander.
 
-BILD
+![](assets/301_090x/301_0901_Zp5.svg)
 
 ## (3)
 
@@ -125,7 +125,7 @@ ausführenden Mitarbeitern.
 
 ## (4) Standort
 
-Die Lichtsignale können sich rechts oder links vom Gleis befinden. 
+Die Lichtsignale können sich rechts oder links vom Gleis befinden.
 
 ---
 
@@ -139,15 +139,15 @@ Die Lichtsignale können sich rechts oder links vom Gleis befinden.
 
 Handsignal, Tageszeichen: Beide Hände werden über dem Kopf zusammengeschlagen.
 
-BILD
+![](assets/301_090x/301_0901_Zp6_1.svg)
 
 Handsignal, Nachtzeichen: Die weißleuchtende Handlaterne wird mehrmals mit der rechten Hand in einem Halbkreis gehoben und senkrecht schnell gesenkt.
 
-BILD
+![](assets/301_090x/301_0901_Zp6_2.svg)
 
 Lichtsignal: Ein weißes Licht.
 
-BILD
+![](assets/301_090x/301_0901_Zp6_3.svg)
 
 ---
 
@@ -161,15 +161,15 @@ BILD
 
 Handsignal, Tageszeichen: Eine Hand wird über dem Kopf mehrmals im Halbkreis hin- und hergeschwungen.
 
-BILD
+![](assets/301_090x/301_0901_Zp7_1.svg)
 
 Handsignal, Nachtzeichen: Die weißleuchtende Handlaterne wird über dem Kopf mehrmals im Halbkreis hin- und hergeschwungen.
 
-BILD
+![](assets/301_090x/301_0901_Zp7_2.svg)
 
 Lichtsignal: Zwei weiße Lichter senkrecht übereinander.
 
-BILD
+![](assets/301_090x/301_0901_Zp7_3.svg)
 
 ---
 
@@ -183,15 +183,13 @@ BILD
 
 Handsignal, Tageszeichen: Beide Arme werden gestreckt senkrecht hochgehalten.
 
-BILD
-
 Handsignal, Nachtzeichen: Die weißleuchtende Handlaterne wird mehrmals in Form einer liegenden Acht bewegt.
 
-BILD
+![](assets/301_090x/301_0901_Zp8_1.svg)
 
 Lichtsignal: Drei weiße Lichter senkrecht übereinander.
 
-BILD
+![](assets/301_090x/301_0901_Zp8_2.svg)
 
 ## (3) Bestätigung
 
@@ -214,7 +212,8 @@ Die Aufnahme des Handsignals ist zu bestätigen.
 
 Handsignal, Tageszeichen: Eine runde weiße Scheibe mit grünem Rand.
 
-BILD
+![](assets/301_090x/301_0901_Zp9_1.svg)
+
 
 oder das Nachtzeichen des Signals
 
@@ -222,11 +221,13 @@ oder bei NE auch das Hochhalten einer Hand.
 
 Handsignal, Nachtzeichen: Ein grünes Licht
 
-BILD
+![](assets/301_090x/301_0901_Zp9_2.svg)
 
-Lichtsignal: Ein grünleuchtender Ring. 
 
-BILD
+Lichtsignal: Ein grünleuchtender Ring.
+
+![](assets/301_090x/301_0901_Zp9_3.svg)
+
 
 ## (3)
 
@@ -234,7 +235,8 @@ Als Signalbild des Lichtsignals kann bis auf weiteres verwendet werden:
 
 Ein senkrechter grüner Lichtstreifen. Dieses Signal wird neu nicht mehr aufgestellt.
 
-BILD
+![](assets/301_090x/301_0901_Zp9_4.svg)
+
 
 ## (4) Zweck
 
@@ -265,13 +267,15 @@ Das Lichtsignal ist ortsfest.
 
 Ein waagerechter, weißer Lichtstreifen.
 
-BILD
+![](assets/301_090x/301_0901_Zp10_1.svg)
+
 
 ## (3) DS 301
 
 Im Geltungsbereich der DS 301 kann das Signal bei S-Bahnen im nichtleuchtenden Ring des Lichtsignals Zp 9 als ein weiß leuchtendes „T“ erscheinen.
 
-BILD
+![](assets/301_090x/301_0901_Zp10_2.svg)
+
 
 ---
 ---
@@ -291,7 +295,8 @@ BILD
 Ein langer, ein kurzer und ein langer Ton oder ein langes, ein kurzes und ein
 langes Lichtzeichen.
 
-BILD
+![](assets/301_090x/301_0901_Zp11.svg)
+
 
 ## (3) Zweck
 
@@ -317,7 +322,8 @@ Zum Geben des Signals werden Horn, Hupe, Wecker, Leuchte oder Fahrzeugpfeife (od
 
 Zwei kurze, ein langer und ein kurzer Ton.
 
-BILD
+![](assets/301_090x/301_0901_Zp12.svg)
+
 
 ## (3)
 
