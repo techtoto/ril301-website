@@ -40,9 +40,9 @@ betroffen, so sind erforderlichenfalls zwei Pfeile über dem Signal vorhanden.
 Für einen am Signal El 3 angebrachten Richtungspfeil ist die Fahrtrichtung in
 der La angegeben.
 
-Am Signal El 4 ist der am Signal El 3 angebrachte Richtungspfeil zu wiederholen, wenn auch das Signal El 4 vor der Gleisverzweigung steht
+Am Signal El 4 ist der am Signal El 3 angebrachte Richtungspfeil zu wiederholen, wenn auch das Signal El 4 vor der Gleisverzweigung steht.
 
-BILD
+![](assets/301_1001/301_1001_1.svg)
 
 ---
 
@@ -74,7 +74,7 @@ kann auf die Beleuchtung der Signale verzichtet werden.
 
 Zwei weiße Rechtecke waagerecht nebeneinander.
 
-BILD
+![](assets/301_1001/301_1001_El1v.svg)
 
 ## (3)
 
@@ -97,7 +97,7 @@ Strecke vor dem Signal El 1.
 
 Ein zerlegtes weißes U.
 
-BILD
+![](assets/301_1001/301_1001_El1.svg)
 
 ## (3)
 
@@ -114,9 +114,9 @@ der Fahrleitungsspannung wieder eingeschaltet werden.
 
 Die am gleichen Standort vereinigten Signale El 1 und El 2 sind bei Dunkelheit beleuchtet.
 
-BILD
+![](assets/301_1001/301_1001_El2_1.svg)
 
-BILD
+![](assets/301_1001/301_1001_El1.svg)
 
 ---
 
@@ -130,7 +130,7 @@ BILD
 
 Ein geschlossenes weißes U.
 
-BILD
+![](assets/301_1001/301_1001_El2_1.svg)
 
 ## (3)
 
@@ -150,13 +150,13 @@ sich eine weiße Sinuskurve (Wechselstromsystem-Anfang) oder zwei waagerechte we
 Das Triebfahrzeug darf erst nach dem Systemwechsel wieder eingeschaltet
 werden.
 
-BILD
+![](assets/301_1001/301_1001_El2_2.svg)
 
 ---
 
-# 6. Signale El 3, El 4 und El 5 
+# 6. Signale El 3, El 4 und El 5
 
-## (1) 
+## (1)
 
 Die Signale können auch nicht ortsfest sein.
 
@@ -180,9 +180,9 @@ zeigen.
 
 ## (2) Beschreibung
 
-Zwei in der Höhe gegeneinander versetzte weiße Streifen. 
+Zwei in der Höhe gegeneinander versetzte weiße Streifen.
 
-BILD
+![](assets/301_1001/301_1001_El3.svg)
 
 ## (3)
 
@@ -191,7 +191,7 @@ Das Signal kündigt ein „Bügel ab“-Signal (El 4) an.
 ### örtliche Zusätze
 
 Bei der DB Netz AG kann eine Ergänzung in den örtlichen Zusätzen bekannt
-gegeben sein. 
+gegeben sein.
 
 ## (4) Abstand zum Signal El 4
 
@@ -215,22 +215,22 @@ Der Standort des zweiten Signals wird in der La bekannt gegeben.
 
 ## (2) Beschreibung
 
-Ein waagerechter weißer Streifen. 
+Ein waagerechter weißer Streifen.
 
-BILD
+![](assets/301_1001/301_1001_El4.svg)
 
 ## (3)
 
-Das Signal kennzeichnet den Beginn eines Gleisabschnitts, der nur mit gesenkten Stromabnehmern befahren werden darf. 
+Das Signal kennzeichnet den Beginn eines Gleisabschnitts, der nur mit gesenkten Stromabnehmern befahren werden darf.
 
 ## (4)
 
-Am Signal müssen die Stromabnehmer völlig gesenkt sein. 
+Am Signal müssen die Stromabnehmer völlig gesenkt sein.
 
 ## (5) Aufstellung
 
 Das Signal befindet sich 30 m vor dem mit gesenkten Stromabnehmern zu
-befahrenden Fahrleitungs-Abschnitt. 
+befahrenden Fahrleitungs-Abschnitt.
 
 ---
 
@@ -242,9 +242,9 @@ befahrenden Fahrleitungs-Abschnitt.
 
 ## (2) Beschreibung
 
-Ein senkrechter weißer Streifen. 
+Ein senkrechter weißer Streifen.
 
-BILD
+![](assets/301_1001/301_1001_El5_1.svg)
 
 ## (3)
 
@@ -271,9 +271,9 @@ unmittelbar links neben dem Gleis stehen.
 ## (8) Systemwechsel
 
 Im Bereich von Systemwechseln kann das Signal mit der Tafel gemäß Abschnitt 5 Absatz 5 ergänzt sein. In diesem Fall dürfen die Stromabnehmer erst
-nach dem Systemwechsel wieder angelegt werden. 
+nach dem Systemwechsel wieder angelegt werden.
 
-BILD
+![](assets/301_1001/301_1001_El5_2.svg)
 
 ---
 
@@ -287,7 +287,7 @@ BILD
 
 Ein auf der Spitze stehender quadratischer weißer Rahmen mit innenliegendem weißem Quadrat.
 
-BILD
+![](assets/301_1001/301_1001_El6_1.svg)
 
 ## (3)
 
@@ -311,6 +311,6 @@ Länderkennung befindet (z.B. „D“ für Deutschland oder „CH“ für Schwei
 Unter der Länderkennung kann die Spannung der Fahrleitung gezeigt werden.
 
 Das Signal El 6 mit Zusatztafel gilt nur für Fahrzeuge, deren gehobener
-Stromabnehmer der angezeigten nationalen Bauart entspricht. 
+Stromabnehmer der angezeigten nationalen Bauart entspricht.
 
-BILD
+![](assets/301_1001/301_1001_El6_2.png)
