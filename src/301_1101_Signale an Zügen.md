@@ -6,11 +6,11 @@
 
 ## Zweck
 
-Die Signale kennzeichnen Züge und auf die freie Strecke übergehende Nebenfahrzeuge mit Kraftantrieb. 
+Die Signale kennzeichnen Züge und auf die freie Strecke übergehende Nebenfahrzeuge mit Kraftantrieb.
 
 ---
 
-# 2. Signal Zg 1 – Spitzensignal 
+# 2. Signal Zg 1 – Spitzensignal
 
 ## (1) Bedeutung
 
@@ -26,26 +26,26 @@ Nachtzeichen:
 
 Vorn am ersten Fahrzeug, wenn dieses ein Triebfahrzeug oder Steuerwagen ist, drei weiße Lichter in Form eines A (Dreilicht-Spitzensignal).
 
-BILD
+![](assets/301_1101/301_1101_Zg1_1.svg)
 
 ### b) Signal Zg 1b
 
-Vorn am ersten Fahrzeug, wenn dieses nicht ein Triebfahrzeug oder Steuerwagen ist, zwei weiße Lichter in gleicher Höhe. 
+Vorn am ersten Fahrzeug, wenn dieses nicht ein Triebfahrzeug oder Steuerwagen ist, zwei weiße Lichter in gleicher Höhe.
 
-BILD
+![](assets/301_1101/301_1101_Zg1_2.svg)
 
 ## (3) nachgeschobene Züge
 
-Bei nachgeschobenen Zügen trägt auch das Schiebetriebfahrzeug das Spitzensignal, sofern es nicht mit dem Zug gekuppelt ist. 
+Bei nachgeschobenen Zügen trägt auch das Schiebetriebfahrzeug das Spitzensignal, sofern es nicht mit dem Zug gekuppelt ist.
 
 ## (4) Nachtzeichen bei Tage
 
-Die Nachtzeichen sind auch bei Tage zu führen. 
+Die Nachtzeichen sind auch bei Tage zu führen.
 
 ## (5) Nebenfahrzeuge
 
 Nebenfahrzeuge, an denen wegen ihrer niedrigen Bauart das obere Licht des
-Signals Zg 1a nicht angebracht werden kann, führen das Signal Zg 1b). 
+Signals Zg 1a nicht angebracht werden kann, führen das Signal Zg 1b).
 
 ---
 
@@ -57,9 +57,9 @@ Signals Zg 1a nicht angebracht werden kann, führen das Signal Zg 1b).
 
 ## (2) Beschreibung
 
-Am letzten Fahrzeug zwei rote Lichter 
+Am letzten Fahrzeug zwei rote Lichter
 
-BILD
+![](assets/301_1101/301_1101_Zg2_1.svg)
 
 oder
 
@@ -67,9 +67,9 @@ zwei rechteckige reflektierende Schilder mit weißen Dreiecken seitlich und je
 einem roten Dreieck oben und unten, die mit ihren Spitzen sich in der Mitte
 des Schildes berühren. Die roten Lichter dürfen blinken.
 
-BILD
+![](assets/301_1101/301_1101_Zg2_2.svg)
 
-BILD
+![](assets/301_1101/301_1101_Zg2_3.png)
 
 ## (3) Sichtbarkeit
 
