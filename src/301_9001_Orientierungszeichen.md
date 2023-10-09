@@ -16,6 +16,7 @@ Sie sollen eine Hilfe für die Anwender, vor allem Triebfahrzeugführer, sein.
 
 Die Richtlinie 301.9001 gibt keine vollständige Darstellung aller möglichen
 Orientierungszeichen.
+
 ## (3)
 
 Die im Anhang dargestellten Orientierungszeichen haben in der Regel ihren
@@ -37,7 +38,7 @@ ersetzen nicht die Regelzeichnungen. Die Aufnahme in diesen Anhang begründet ni
 
 Den angegebenen Zugfunkkanal einstellen.
 
-BILD
+![](assets/301_9001/Zugfunktafel.png)
 
 ---
 
@@ -46,7 +47,7 @@ BILD
 Das Zeichen ist so aufgestellt, dass ein am Schluss des Zuges laufendes
 Triebfahrzeug die Fahrleitungsschutzstrecke durchfahren hat.
 
-BILD
+![](assets/301_9001/ICE-Zeichen.png)
 
 ---
 
@@ -57,28 +58,28 @@ BILD
 Das Schild befindet sich an der Zugeinwirkungsstelle für die automatische
 Hilfseinschaltung von Bahnübergangssicherungsanlagen.
 
-BILD
+![](assets/301_9001/BÜ_Automatik_HET.png)
 
 ## (2) Schild „HET“
 
 Das Schild befindet sich an der Bedienstelle für die Hilfseinschaltung von
 Bahnübergangssicherungsanlagen.
 
-BILD
+![](assets/301_9001/BÜ_HET.png)
 
 ## (3) Schild „Automatik-ET“
 
 Das Schild befindet sich an der Zugeinwirkungsstelle für die automatische
 Einschaltung von Bahnübergangssicherungsanlagen.
 
-BILD
+![](assets/301_9001/BÜ_Automatik_ET.png)
 
 ## (4) Schild „ET“
 
 Das Schild befindet sich an der Bedienstelle für die Einschaltung von
 Bahnübergangssicherungsanlagen.
 
-BILD
+![](assets/301_9001/BÜ_ET.png)
 
 ---
 
@@ -92,12 +93,17 @@ Der Fahrtanzeiger dient der Orientierung, dass der Fahrdienstleiter der Abfahrt 
 
 Der Fahrtanzeiger hat folgendes Aussehen:
 
-- a) Ein von links nach rechts steigender Lichtstreifen.  
-BILD  
-Die Zustimmung gilt in Blickrichtung. 
-- b) Drei von rechts nach links steigende Lichtpunkte.  
-BILD  
-Die Zustimmung gilt entgegen der Blickrichtung.  
+a) Ein von links nach rechts steigender Lichtstreifen.
+
+![](assets/301_9001/Fahrtanzeiger_1.png)
+
+Die Zustimmung gilt in Blickrichtung.
+
+b) Drei von rechts nach links steigende Lichtpunkte.
+
+![](assets/301_9001/Fahrtanzeiger_2.png)
+
+Die Zustimmung gilt entgegen der Blickrichtung.
 Bei bestehenden Anlagen kann statt der Lichtpunkte ein senkrechter Lichtstreifen gezeigt werden.
 
 ---
@@ -106,7 +112,7 @@ Bei bestehenden Anlagen kann statt der Lichtpunkte ein senkrechter Lichtstreifen
 
 Das Zeichen weist auf die Stelle, an der die Bedieneinrichtung für das Lichtsignal Zp 9 aufgestellt oder angebracht ist.
 
-BILD
+![](assets/301_9001/Hinweistafel_Zp9.png)
 
 ---
 
@@ -116,7 +122,7 @@ LZB-Bereichskennzeichen kennzeichnen den Anfang einer LZB-Strecke und
 den Übergang zwischen zwei Linienleiterschleifenbereichen unterschiedlicher
 Bereichskennungen – Bereichskennungswechsel (BKW) –.
 
-BILD
+![](assets/301_9001/LZB-Bereichskennzeichen.png)
 
 ---
 
@@ -125,9 +131,13 @@ BILD
 Blockkennzeichen sind an den Blockstellen aufgestellt, die nicht durch den
 Standort eines Hauptsignals oder eines Signals Ne 14 gekennzeichnet sind.
 
-a) BILD
+a)
 
-b) BILD
+![](assets/301_9001/Blockkennzeichen_1.png)
+
+b)
+
+![](assets/301_9001/Blockkennzeichen_2.png)
 
 Das Blockkennzeichen nach b) (ETCS location marker) gilt für das Gleis, auf
 das der Pfeil weist.
@@ -138,9 +148,9 @@ das der Pfeil weist.
 
 Kennzeichnung der Streckenkilometrierung.
 
-Die obere Zahl gibt den Kilometer an, die untere den Hektometer. 
+Die obere Zahl gibt den Kilometer an, die untere den Hektometer.
 
-BILD
+![](assets/301_9001/Hektometerzeichen.png)
 
 ---
 
@@ -148,7 +158,7 @@ BILD
 
 Das Hektometerzeichen ist am oberen und unteren Rand durch einen orangefarbenen waagerechten Streifen ergänzt.
 
-BILD
+![](assets/301_9001/NBÜ-Kennzeichen.png)
 
 ---
 
@@ -159,7 +169,7 @@ BILD
 Die örtliche Tunnelbezeichnung besteht aus dem Namen des Tunnels ohne
 das Wort oder den Wortteil „Tunnel“, dem Tunnelsymbol und der Längenangabe in Metern.
 
-BILD
+![](assets/301_9001/Tunnel-Bezeichnungstafel.png)
 
 ## (2)
 
@@ -175,7 +185,7 @@ Sprechstellen in Tunneln können zusätzlich ein Hörersymbol tragen. (Bis auf
 weiteres können auch folgende Kennzeichnungen vorkommen: Fo, F-Sig,
 Signalfernsprecher.)
 
-BILD
+![](assets/301_9001/Unbesetzte_Fernsprechstelle.png)
 
 ---
 
@@ -183,7 +193,7 @@ BILD
 
 Auf der freien Strecke weist der Pfeil auf die nächste Sprechstelle hin.
 
-BILD
+![](assets/301_9001/Hinweis_nächste_Sprechstelle.png)
 
 ---
 
@@ -191,7 +201,7 @@ BILD
 
 Das Orientierungszeichen kennzeichnet – soweit notwendig - offene Streckentrennungen von Speisebezirksgrenzen des Oberleitungsnetzes.
 
-BILD
+![](assets/301_9001/Elektrische_Streckentrennung.png)
 
 ---
 
@@ -200,6 +210,8 @@ BILD
 ## (1)
 
 Eine weiße rechteckige Tafel mit der Aufschrift „OB“
+
+![](assets/301_9001/Beginn_Ortsstellbereich.png)
 
 ## (2)
 
@@ -219,7 +231,8 @@ Eine schwarz umrandete Tafel mit einem weißen Feld mit der Aufschrift „PZB“
 über einem gelben Feld mit der Aufschrift „Bü“ und der Kilometerangabe für
 den Bahnübergang.
 
-BILD
+![](assets/301_9001/PZB_BÜ.png)
+
 
 ## (2)
 
@@ -232,7 +245,8 @@ Das Orientierungszeichen kennzeichnet die Lage eines Gleismagneten
 
 Ein weißes rechteckiges Schild mit schwarzem Rand und einer Längenangabe in Metern.
 
-BILD
+![](assets/301_9001/Zuglänge.png)
+
 
 An Bahnsteigen ohne eine Haltetafel (Signal Ne 5) können Orientierungszeichen „Zuglänge“ aufgestellt sein. Sie kennzeichnen den verkehrlich günstigsten Halteplatz des Zuges.
 
@@ -242,7 +256,7 @@ Das Verkehrsunternehmen bestimmt, welche Orientierungszeichen „Zuglänge“ be
 
 # 18. Kennzeichnung der Hebelgewichte an mechanisch ortsgestellten Weichen
 
-TABELLE ALS BILD
+![](assets/301_9001/Kennzeichnung_Hebelgewichte.png)
 
 ---
 
@@ -250,7 +264,7 @@ TABELLE ALS BILD
 
 Die Tafel kennzeichnet die Stelle an der das nationale GSM-R-Funknetz beginnt.
 
-BILD
+![](assets/301_9001/GSM-R-Funknetztafel.png)
 
 ---
 
@@ -258,4 +272,4 @@ BILD
 
 Der Signalhaltmelder dient zur signaltechnisch sicheren Anzeige der Haltstellung des Einfahrsignals aus der einmündenden Zugleitstrecke.
 
-BILD
+![](assets/301_9001/Signalhaltmelder.png)
