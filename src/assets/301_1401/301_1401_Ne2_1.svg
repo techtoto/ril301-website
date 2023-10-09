@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="11.642mm" height="26.835mm" version="1.1" viewBox="0 0 11.642 26.835" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath92">
+   <path transform="translate(-247.86 -653.54)" d="m247.14 603.02h33v50.52h-33z"/>
+  </clipPath>
+  <clipPath id="clipPath100">
+   <path transform="translate(-247.86 -653.54)" d="m247.14 603.02h33v50.52h-33z"/>
+  </clipPath>
+  <clipPath id="clipPath108">
+   <path transform="translate(-247.86 -653.54)" d="m247.14 603.02h33v50.52h-33z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-66.146 -127.26)">
+  <g>
+   <rect x="66.39" y="127.63" width="11.089" height="17.06" fill="#fff" stroke-width=".26458"/>
+   <g fill-rule="evenodd">
+    <path d="m66.4 127.52 5.5245 8.5937 5.588-8.5937h-11.112" fill="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075847"/>
+    <path d="m66.4 144.81 5.5245-8.6995 5.588 8.6995h-11.112" fill="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075847"/>
+    <path d="m68.961 144.81 3.048-5.1223 3.0692 5.1223h-6.1172" fill="#fff"/>
+    <path d="m75.078 127.52-3.048 5.1435-3.0692-5.1435h6.1172" fill="#fff"/>
+   </g>
+   <path transform="matrix(.35278 0 0 -.35278 66.4 127.26)" d="m0 0h31.56v-1.4399h-31.56zm31.56 0h0.72v-0.71997h-0.72zm-0.72-0.72h1.44v-49.02h-1.44zm1.44 0m-0.72-49.02h0.72v-0.71997h-0.72zm0.72 0m-0.72-0.72h-31.56v1.44h31.56zm-31.56 0h-0.71999v0.71997h0.71999zm0.72 0.72h-1.44v49.02h1.44zm-1.44 0m0.72 49.02h-0.71999v0.71997h0.71999z" clip-path="url(#clipPath92)" fill="#1f1a17"/>
+   <path d="m70.951 154.06h2.0532v-9.0382h-2.0532z" fill="#848382"/>
+  </g>
+  <path d="m70.951 145.02h2.0532v9.0382h-2.0532z" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075847"/>
+  <g>
+   <g fill-rule="evenodd">
+    <path d="m66.4 127.52 5.5245 8.5937 5.588-8.5937h-11.112" fill="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075847"/>
+    <path d="m66.4 144.81 5.5245-8.6995 5.588 8.6995h-11.112" fill="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075847"/>
+    <path d="m68.961 144.81 3.048-5.1223 3.0692 5.1223h-6.1172" fill="#fff"/>
+    <path d="m75.078 127.52-3.048 5.1435-3.0692-5.1435h6.1172" fill="#fff"/>
+   </g>
+   <path transform="matrix(.35278 0 0 -.35278 66.4 127.26)" d="m0 0h31.56v-1.4399h-31.56zm31.56 0h0.72v-0.71997h-0.72zm-0.72-0.72h1.44v-49.02h-1.44zm1.44 0m-0.72-49.02h0.72v-0.71997h-0.72zm0.72 0m-0.72-0.72h-31.56v1.44h31.56zm-31.56 0h-0.71999v0.71997h0.71999zm0.72 0.72h-1.44v49.02h1.44zm-1.44 0m0.72 49.02h-0.71999v0.71997h0.71999z" clip-path="url(#clipPath100)" fill="#1f1a17"/>
+   <path d="m70.951 154.06h2.0532v-9.0382h-2.0532z" fill="#848382"/>
+  </g>
+  <path d="m70.951 145.02h2.0532v9.0382h-2.0532z" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075847"/>
+  <g>
+   <g fill-rule="evenodd">
+    <path d="m66.4 127.52 5.5245 8.5937 5.588-8.5937h-11.112" fill="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075847"/>
+    <path d="m66.4 144.81 5.5245-8.6995 5.588 8.6995h-11.112" fill="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075847"/>
+    <path d="m68.961 144.81 3.048-5.1223 3.0692 5.1223h-6.1172" fill="#fff"/>
+    <path d="m75.078 127.52-3.048 5.1435-3.0692-5.1435h6.1172" fill="#fff"/>
+   </g>
+   <path transform="matrix(.35278 0 0 -.35278 66.4 127.26)" d="m0 0h31.56v-1.4399h-31.56zm31.56 0h0.72v-0.71997h-0.72zm-0.72-0.72h1.44v-49.02h-1.44zm1.44 0m-0.72-49.02h0.72v-0.71997h-0.72zm0.72 0m-0.72-0.72h-31.56v1.44h31.56zm-31.56 0h-0.71999v0.71997h0.71999zm0.72 0.72h-1.44v49.02h1.44zm-1.44 0m0.72 49.02h-0.71999v0.71997h0.71999z" clip-path="url(#clipPath108)" fill="#1f1a17"/>
+   <path d="m70.951 154.06h2.0532v-9.0382h-2.0532z" fill="#848382"/>
+  </g>
+  <path d="m70.951 145.02h2.0532v9.0382h-2.0532z" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075847"/>
+ </g>
+</svg>

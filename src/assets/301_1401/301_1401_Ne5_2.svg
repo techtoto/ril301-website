@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="7.1452mm" height="15.866mm" version="1.1" viewBox="0 0 7.1452 15.866" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath412">
+   <path transform="translate(-2.5e-5 2.5e-5)" d="m253.5 530h20.28v28.5h-20.28z"/>
+  </clipPath>
+  <clipPath id="clipPath413">
+   <path transform="matrix(1 0 0 -1.0227 -255.18 546.23)" d="m255.18 527.84h15.9v30.66h-15.9z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-56.885 -80.427)">
+  <path d="m59.527 96.255h1.905v-6.1807h-1.905z" fill="#848382"/>
+  <path d="m59.527 90.075h1.905v6.1807h-1.905z" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075494"/>
+  <path d="m56.923 90.392h7.0697v-9.9272h-7.0697z" fill="#1f1a17"/>
+  <path transform="matrix(.35278 0 0 -.35278 -32.548 277.45)" d="m253.62 558.38h20.04v-28.14h-20.04z" clip-path="url(#clipPath412)" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".214"/>
+  <text transform="matrix(.35278 0 0 .34493 57.473 89.037)" clip-path="url(#clipPath413)" xml:space="preserve"><tspan x="0" y="0" fill="#ffffff" font-family="Arial" font-size="30.398px" font-stretch="condensed">H</tspan></text>
+ </g>
+</svg>

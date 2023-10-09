@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="6.3729mm" height="35.619mm" version="1.1" viewBox="0 0 6.3729 35.619" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-58.473 -86.248)">
+  <path d="m60.908 121.83h1.5452v-6.7098h-1.5452z" fill="#848382"/>
+  <path d="m60.908 115.12h1.5452v6.7098h-1.5452z" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074436"/>
+  <path d="m58.622 115.35h6.096v-23.94h-6.096z" fill="#fff"/>
+  <path d="m58.622 91.414h6.096v23.94h-6.096z" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".19932"/>
+  <g fill="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074436">
+   <path d="m58.643 109.21v-1.5028l6.0748-3.429v1.4817l-6.0748 3.4502"/>
+   <path d="m58.643 105.85v-1.5028l6.0748-3.429v1.5028l-6.0748 3.429"/>
+   <path d="m58.643 102.48v-1.5028l6.0748-3.429v1.5028l-6.0748 3.429"/>
+  </g>
+  <path d="m58.622 86.397 3.0692 5.0165 3.0057-5.0165z" fill="#fff" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".2981"/>
+ </g>
+</svg>

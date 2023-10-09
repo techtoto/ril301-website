@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="7.1512mm" height="15.868mm" version="1.1" viewBox="0 0 7.1512 15.868" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath405">
+   <path transform="translate(-2.5e-5 2.5e-5)" d="m253.5 611.36h20.28v29.46h-20.28z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-59.531 -83.338)">
+  <path d="m62.197 99.169h1.8415v-6.1807h-1.8415z" fill="#848382"/>
+  <path d="m62.197 92.988h1.8415v6.1807h-1.8415z" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".073378"/>
+  <path d="m59.699 93.496h6.8157v-9.9907h-6.8157z" fill="#fff"/>
+  <path transform="matrix(.35278 0 0 -.35278 -29.9 309.4)" d="m253.98 640.34h19.32v-28.32h-19.32z" clip-path="url(#clipPath405)" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".951"/>
+  <text transform="scale(.9894 1.0107)" x="60.787704" y="91.290276" font-size="4.2787px" stroke-width=".35656" xml:space="preserve"><tspan x="60.787704" y="91.290276" fill="#1f1a17" font-family="Arial" font-size="10.436px" font-stretch="condensed" font-weight="700" stroke-width=".35656">H</tspan></text>
+ </g>
+</svg>

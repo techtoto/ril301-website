@@ -13,7 +13,7 @@
 Eine weiße Trapeztafel mit schwarzem Rand an schwarz und weiß schräg
 gestreiftem Pfahl.
 
-BILD
+![](assets/301_1401/301_1401_Ne1_1.svg)
 
 ## (3)
 
@@ -28,11 +28,11 @@ Auf Strecken mit Zugleitbetrieb kann sie auch vor anderen Zuglaufstellen stehen.
 
 An Gleisen entgegen der gewöhnlichen Fahrtrichtung kann die Trapeztafel
 aufgestellt sein, wenn dort kein gültiges Haupt– oder Sperrsignal vorhanden
-ist. Sie ist dann mit einer Kilometerangabe ergänzt. 
+ist. Sie ist dann mit einer Kilometerangabe ergänzt.
 
-BILD
+![](assets/301_1401/301_1401_Ne1_2.svg)
 
-Bei den NE bestimmt der Betriebsleiter, wo die Trapeztafel aufgestellt ist. 
+Bei den NE bestimmt der Betriebsleiter, wo die Trapeztafel aufgestellt ist.
 
 ## (5) Beleuchtung
 
@@ -51,7 +51,7 @@ Bei den Eisenbahnen des Bundes bestimmt der Eisenbahninfrastrukturunternehmer �
 Eine schwarzgeränderte weiße Tafel mit zwei übereinander stehenden
 schwarzen Winkeln, die sich mit der Spitze berühren.
 
-BILD
+![](assets/301_1401/301_1401_Ne2_1.svg)
 
 ## (3) Dreibegriffiges Formvorsignal (DV 301)
 
@@ -59,13 +59,13 @@ Als Kennzeichnung des Standorts eines dreibegriffigen Formvorsignals im
 Geltungsbereich der DV 301 kann über der Vorsignaltafel eine dreieckige,
 schwarzgeränderte, weiße Tafel mit einem schwarzen Punkt angebracht sein.
 
-BILD
+![](assets/301_1401/301_1401_Ne2_2.svg)
 
 ## (4) Aufstellung
 
 Das Signal steht in der Regel unmittelbar vor einem Vorsignal.
 
-Vor einem Lichtvorsignal an einem Lichthauptsignal, vor einem Lichthauptsignal mit Vorsignalfunktion und vor einem Vorsignalwiederholer ist es nicht aufgestellt. 
+Vor einem Lichtvorsignal an einem Lichthauptsignal, vor einem Lichthauptsignal mit Vorsignalfunktion und vor einem Vorsignalwiederholer ist es nicht aufgestellt.
 
 ## (5) Über dem Gleis
 
@@ -79,9 +79,9 @@ Die Vorsignaltafel kann auch allein stehen
 Strecke vor einem Hauptsignal, einem Lichtsperrsignal oder einer Trapeztafel,
 
 - b) als Hinweis auf ein Vorsignal, das sich abweichend von Richtlinie 301.0002
-Abschnitt 2 Absatz 3 an einem anderen Standort befindet, wenn Bauzustände dies erfordern.  
+Abschnitt 2 Absatz 3 an einem anderen Standort befindet, wenn Bauzustände dies erfordern.
 Dies ist in der La oder bei NE-Bahnen in einer betrieblichen Anweisung des
-Betriebsleiters bekannt gegeben.  
+Betriebsleiters bekannt gegeben.
 Ein unmittelbar rechts vom zugehörigen Gleis stehendes Signal Ne 2 weist
 auf ein Vorsignal hin, das
 
@@ -89,16 +89,16 @@ auf ein Vorsignal hin, das
     - in einem größeren Abstand rechts oder
     - ein Gleis weiter rechts
 
-  vom befahrenen Gleis steht.  
+  vom befahrenen Gleis steht.
 Ein unmittelbar links vom zugehörigen Gleis stehendes Signal Ne 2 weist
 auf ein Vorsignal hin, das
 
     - entweder rechts oder
     - ein Gleis weiter rechts
 
-  vom befahrenen Gleis steht.  
+  vom befahrenen Gleis steht.
 Das Signal Ne 2 wird nicht aufgestellt für Vorsignale am Standort von
-Hauptsignalen, wenn für das Hauptsignal ein Signal Ne 4 aufgestellt ist. 
+Hauptsignalen, wenn für das Hauptsignal ein Signal Ne 4 aufgestellt ist.
 
 ## (7)
 
@@ -107,7 +107,7 @@ Hauptsignalen, wenn für das Hauptsignal ein Signal Ne 4 aufgestellt ist.
 ## (8) Beleuchtung
 
 Bei Bauzuständen und wenn der Betrieb es erfordert, ist das Signal Ne 2
-rückstrahlend oder beleuchtet. 
+rückstrahlend oder beleuchtet.
 
 ## (9) Verkürzter Vorsignalabstand
 
@@ -117,10 +117,10 @@ stehendes weißes Dreieck mit schwarzem Rand.
 
 Bei beschränktem Raum kann es vor der Vorsignaltafel stehen.
 
-BILD
+![](assets/301_1401/301_1401_Ne2_3.svg)
 
 Die Kennzeichnung entfällt bei Vorsignalen, die mit einem weißen Zusatzlicht
-oder nach den Absätzen 10 und 11 gekennzeichnet sind. 
+oder nach den Absätzen 10 und 11 gekennzeichnet sind.
 
 ## (10)
 
@@ -129,16 +129,16 @@ oder nach Absatz 9 gekennzeichnet ist, kann eine schwarzgeränderte, weiße
 Tafel mit zwei übereinander stehenden schwarzen Winkeln, deren Spitzen
 durch einen schwarzen Ring verdeckt sind, aufgestellt sein.
 
-BILD
+![](assets/301_1401/301_1401_Ne2_4.svg)
 
 ## (11)
 
 Zur Kennzeichnung des Standorts eines im verkürzten Abstand des Bremswegs der Strecke stehenden dreibegriffigen Formvorsignals im Geltungsbereich der DV 301, das nicht nach Absatz 9 gekennzeichnet ist, ist eine
 schwarzgeränderte, weiße Tafel mit zwei übereinander stehenden schwarzen
 Winkeln, deren Spitzen durch einen schwarzen Ring verdeckt sind, und darüber eine dreieckige, schwarz geränderte, weiße Tafel mit einem schwarzen
-Punkt aufgestellt. 
+Punkt aufgestellt.
 
-BILD
+![](assets/301_1401/301_1401_Ne2_5.svg)
 
 ## (12) Vorsignalmastschild (DV 301)
 
@@ -146,7 +146,7 @@ Lichtvorsignale können im Geltungsbereich der DV 301 anstatt mit der Vorsignalt
 
 Ein mit der Spitze nach unten weisendes gelbes Dreieck.
 
-BILD
+![](assets/301_1401/301_1401_Ne2_6.svg)
 
 Das Mastschild ist rückstrahlend.
 
@@ -157,7 +157,7 @@ zum weiß-rot-weißen Mastschild mit dem Mastschild mit dem mit der Spitze
 nach unten weisenden gelben Dreieck gekennzeichnet sein.
 
 Das Mastschild mit dem gelben Dreieck ist dann grundsätzlich unter dem
-weiß-rot-weißen Mastschild angeordnet. 
+weiß-rot-weißen Mastschild angeordnet.
 
 ---
 
@@ -173,9 +173,9 @@ Mehrere aufeinanderfolgende viereckige weiße Tafeln mit einem oder mehreren nac
 
 Bei Dunkelheit und unsichtigem Wetter können zusätzlich rückstrahlende
 weiße Streifen erscheinen, deren Anzahl und Anordnung den schwarzen
-Streifen entspricht. 
+Streifen entspricht.
 
-BILD
+![](assets/301_1401/301_1401_Ne3_1.svg)
 
 ## (3)
 
@@ -218,10 +218,11 @@ auf der Spitze stehendes weißes Dreieck mit schwarzem Rand.
 
 Bei beschränktem Raum kann es vor der Bake stehen.
 
-BILD
+![](assets/301_1401/301_1401_Ne3_2.svg)
+
 
 Das weiße Dreieck mit schwarzem Rand darf im Geltungsbereich der DV 301
-bis auf weiteres fehlen. 
+bis auf weiteres fehlen.
 
 ---
 
@@ -235,7 +236,8 @@ bis auf weiteres fehlen.
 
 Eine viereckige, schachbrettartig schwarz und weiß gemusterte Tafel.
 
-BILD
+![](assets/301_1401/301_1401_Ne4.svg)
+
 
 ## (3)
 
@@ -289,7 +291,7 @@ Bei Bauzuständen und wenn der Betrieb es erfordert, ist das Signal rückstrahle
 
 ---
 
-# 5. Signal Ne 5 – Haltetafel 
+# 5. Signal Ne 5 – Haltetafel
 
 ## (1) Bedeutung
 
@@ -300,11 +302,13 @@ Bei Bauzuständen und wenn der Betrieb es erfordert, ist das Signal rückstrahle
 Eine hochstehende weiße Rechteckscheibe mit schwarzem Rand und
 schwarzem H
 
-BILD
+![](assets/301_1401/301_1401_Ne5_1.svg)
+
 
 oder eine hochstehende schwarze Rechteckscheibe mit weißem H.
 
-BILD
+![](assets/301_1401/301_1401_Ne5_2.svg)
+
 
 ## (3) Abweichende Aufstellung
 
@@ -339,7 +343,7 @@ Das Signal ist rückstrahlend oder beleuchtet, wenn der Betrieb es erfordert.
 ## (6) Bedarfshalt
 
 Durch eine hochstehende, schwarze Rechteckscheibe mit weiß blinkendem
-„H“ kann die Anforderung eines Bedarfshalts angezeigt werden. 
+„H“ kann die Anforderung eines Bedarfshalts angezeigt werden.
 
 ---
 
@@ -354,7 +358,8 @@ Durch eine hochstehende, schwarze Rechteckscheibe mit weiß blinkendem
 Eine schräg zum Gleis gestellte waagerechte weiße Tafel mit drei schwarzen
 Schrägstreifen.
 
-BILD
+![](assets/301_1401/301_1401_Ne6.svg)
+
 
 ## (3)
 
@@ -385,11 +390,12 @@ Das Signal ist rückstrahlend. Es darf vorübergehend nicht rückstrahlend sein.
 
 Eine weiße Pfeilspitze mit schwarzem Rand zeigt nach oben
 
-BILD
+![](assets/301_1401/301_1401_Ne7_1.svg)
+
 
 oder eine gelbe Pfeilspitze mit schwarzem Rand zeigt nach oben.
 
-BILD
+![](assets/301_1401/301_1401_Ne7_2.svg)
 
 ## (3) Bedeutung b)
 
@@ -399,11 +405,11 @@ BILD
 
 Eine weiße Pfeilspitze mit schwarzem Rand zeigt nach unten
 
-BILD
+![](assets/301_1401/301_1401_Ne7_3.svg)
 
-oder eine gelbe Pfeilspitze mit schwarzem Rand zeigt nach unten. 
+oder eine gelbe Pfeilspitze mit schwarzem Rand zeigt nach unten.
 
-BILD
+![](assets/301_1401/301_1401_Ne7_4.svg)
 
 ## (5)
 
@@ -430,9 +436,9 @@ Gegenrichtung erkennbar ist.
 
 ## (2) Beschreibung
 
-Eine rechteckige, orangefarbene Tafel mit zwei waagerechten weißen Streifen. 
+Eine rechteckige, orangefarbene Tafel mit zwei waagerechten weißen Streifen.
 
-BILD
+![](assets/301_1401/301_1401_Ne12.svg)
 
 ## (3)
 
@@ -462,7 +468,7 @@ Für Rückfallweichen in Nebengleisen werden keine Signale Ne 12 aufgestellt.
 
 Ein weißes Licht über einem orangefarbenen waagerechten Streifen und einem orange-weiß schräg gestreiften Mastschild.
 
-BILD
+![](assets/301_1401/301_1401_Ne13a.svg)
 
 ## Signal Ne 13b
 
@@ -475,7 +481,7 @@ BILD
 Ein orangefarbener waagerechter Streifen über einem orange-weiß schräg
 gestreiften Mastschild.
 
-BILD
+![](assets/301_1401/301_1401_Ne13b.svg)
 
 ## (5)
 
@@ -513,19 +519,19 @@ Fahrdienstleiter bzw. dem Zugleiter zu melden.
 
 Ein gelber Pfeil mit weißem Rand auf einer blauen quadratischen Tafel.
 
-BILD
+![](assets/301_1401/301_1401_Ne14_1.png)
 
 ## (3) Zugehörigkeit zum Gleis
 
 Das Signal gilt für das Gleis, auf das der Pfeil weist.
 
-BILD
+![](assets/301_1401/301_1401_Ne14_2.png)
 
 ## (4) Kennzeichnung
 
 Das Signal ist mit der eindeutigen Kennzeichnung der ETCS-Blockstelle versehen.
 
-BILD
+![](assets/301_1401/301_1401_Ne14_3.png)
 
 ## (5) alleinstehend
 
@@ -537,7 +543,7 @@ Ein alleinstehendes Signal Ne 14 gebietet Halt:
 
 ---
 
-# 11. Signal So 1 – Endtafel (DV 301) 
+# 11. Signal So 1 – Endtafel (DV 301)
 
 ## (1) Bedeutung
 
@@ -547,7 +553,7 @@ Ein alleinstehendes Signal Ne 14 gebietet Halt:
 
 Eine viereckige rote Tafel mit liegendem weißen Kreuz.
 
-BILD
+![](assets/301_1401/301_1401_So1.svg)
 
 ## (3) rückstrahlend
 
@@ -581,7 +587,7 @@ Drei aufeinander folgende viereckige orangefarbene Tafeln mit einer, zwei
 oder drei weißen Kreisflächen, deren Anzahl in Fahrtrichtung abnimmt; die
 Kreisflächen können rückstrahlend sein.
 
-BILD
+![](assets/301_1401/301_1401_So19.svg)
 
 ## (3)
 
@@ -598,7 +604,7 @@ Jeweils drei Hauptsignalbaken stehen unmittelbar rechts, auf zweigleisiger
 Strecke für Fahrten entgegen der gewöhnlichen Fahrtrichtung unmittelbar
 links neben dem zugehörigen Gleis. Die in Fahrtrichtung letzte Bake steht
 100 m vor dem Hauptsignal; die anderen Baken stehen in je 75 m Abstand
-voneinander davor. 
+voneinander davor.
 
 ---
 
@@ -613,7 +619,7 @@ voneinander davor.
 Eine weiße Sechseckscheibe mit liegendem schwarzem Kreuz an einem
 schwarz und weiß schräg gestreiften Pfahl.
 
-BILD
+![](assets/301_1401/301_1401_So106.svg)
 
 ## (3) Nebenbahn
 
@@ -622,4 +628,4 @@ Die Kreuztafel wird nur auf Nebenbahnen angewandt.
 ## (4) Aufstellung
 
 Die Kreuztafel ist im Abstand des für die Strecke festgelegten Bremsweges
-vor dem Hauptsignal unmittelbar rechts neben dem Gleis aufgestellt. 
+vor dem Hauptsignal unmittelbar rechts neben dem Gleis aufgestellt.

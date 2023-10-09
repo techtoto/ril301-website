@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="11.642mm" height="31.745mm" version="1.1" viewBox="0 0 11.642 31.745" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-51.413 -83.83)">
+  <path transform="translate(3.3333e-7)" d="m54.012 83.931h6.4583l-3.2291 4.7523z" fill="#fff" stroke-width=".26458"/>
+  <rect transform="translate(3.3333e-7)" x="51.697" y="89.049" width="11.028" height="17.181" fill="#fff" stroke-width=".26458"/>
+  <g fill="#1f1a17">
+   <path d="m54.059 83.893 3.2597 4.7413-0.254 0.16933-3.2597-4.7413zm3.2597 4.9107-0.127 0.16933-0.127-0.16933 0.127-0.08467zm-0.23283-0.16933 3.2808-4.7413 0.23283 0.16933-3.2808 4.7413zm3.4078-4.8048h0.27517l-0.16933 0.23283-0.10583-0.08467zm0 0.29633h-6.5617v-0.29633h6.5617zm-6.6887-0.0635-0.16933-0.23283h0.29633v0.14817l-0.127 0.08467"/>
+   <path d="m51.667 89.079 5.5245 8.5513 5.588-8.5513h-11.112" fill-rule="evenodd" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075494"/>
+   <path d="m51.667 106.33 5.5245-8.6995 5.588 8.6995h-11.112" fill-rule="evenodd" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075494"/>
+  </g>
+  <g>
+   <path d="m54.228 106.33 3.048-5.1223 3.0692 5.1223h-6.1172" fill="#fff" fill-rule="evenodd"/>
+   <path d="m60.345 89.079-3.048 5.1223-3.0692-5.1223h6.1172" fill="#fff" fill-rule="evenodd"/>
+   <path d="m51.667 88.825h11.134v0.508h-11.134zm11.134 0h0.25399v0.254h-0.25399zm-0.254 0.254h0.508v17.251h-0.508zm0.508 0m-0.254 17.251h0.25399v0.254h-0.25399zm0.254 0m-0.254 0.254h-11.134v-0.508h11.134zm-11.134 0h-0.254v-0.254h0.254zm0.254-0.254h-0.508v-17.251h0.508zm-0.508 0m0.254-17.251h-0.254v-0.254h0.254z" fill="#1f1a17"/>
+   <path d="m56.218 115.54h2.032v-9.017h-2.032z" fill="#848382"/>
+  </g>
+  <path d="m56.218 106.52h2.032v9.017h-2.032z" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075494"/>
+ </g>
+</svg>

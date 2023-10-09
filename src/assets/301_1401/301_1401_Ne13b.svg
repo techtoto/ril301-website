@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="12.7mm" height="34.555mm" version="1.1" viewBox="0 0 12.7 34.555" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath611">
+   <path transform="translate(-265.56 -613.46)" d="m260.4 539.12h5.22v74.34h-5.22z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-38.368 -41.269)">
+  <g stroke="#000" stroke-miterlimit="10" stroke-width=".021167">
+   <path d="m41.66 41.279h6.0325l3.3655 3.2173v5.1012h-12.679v-5.1012l3.2808-3.2173" fill="#7e7e7e" fill-rule="evenodd"/>
+   <path d="m41.617 44.497h0.16933l0.14817 0.04233c0.68827 0.32808 0.62689 1.3487-0.14817 1.4817l-0.16933 0.02117-0.16933-0.02117c-0.71826-0.1651-0.75318-1.1751-0.10583-1.4817l0.10583-0.04233h0.16933" fill="#848382" fill-rule="evenodd"/>
+   <path d="m47.756 44.497h0.16933l0.127 0.04233c0.64911 0.31962 0.61313 1.3264-0.127 1.4817l-0.16933 0.02117-0.16933-0.02117c-0.75812-0.12876-0.80539-1.1585-0.14817-1.4817l0.14817-0.04233h0.16933" fill="none"/>
+  </g>
+  <path d="m45.999 44.497h0.16933l0.14817 0.04233c0.68474 0.28258 0.62054 1.3921-0.14817 1.4817l-0.16933 0.02117-0.14817-0.02117c-0.78387-0.13052-0.84384-1.1568-0.14817-1.4817l0.14817-0.04233h0.14817" fill="#7e7e7e" fill-rule="evenodd"/>
+  <path d="m47.756 44.497h0.16933l0.127 0.04233c0.68227 0.35454 0.63571 1.2926-0.127 1.4817l-0.16933 0.02117-0.16933-0.02117c-0.7299-0.096305-0.76729-1.1913-0.14817-1.4817l0.14817-0.04233h0.16933" fill="#848382" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075494"/>
+  <path transform="matrix(.35278 0 0 -.35278 45.385 49.598)" d="m-5.16 0h5.16v-74.34h-5.16z" clip-path="url(#clipPath611)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".06"/>
+  <path d="m43.565 75.823h1.8203v-26.225h-1.8203z" fill="#7e7e7e"/>
+  <path d="m42.951 71.886h3.0268v-18.563h-3.0268z" fill="#fff" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075494"/>
+  <g fill="#e77844">
+   <g fill-rule="evenodd">
+    <path d="m42.951 70.849 3.0268-1.5028v-3.0268l-3.0268 1.5028v3.0268"/>
+    <path d="m42.951 64.859 3.0268-1.5028v-3.0268l-3.0268 1.5028v3.0268"/>
+    <path d="m42.951 58.869 3.0268-1.5028v-3.0268l-3.0268 1.5028v3.0268"/>
+   </g>
+   <path d="m38.612 49.683h12.065v-2.6882h-12.065z"/>
+  </g>
+  <path d="m38.612 46.994h12.065v2.6882h-12.065z" fill="none" stroke="#1f1a17" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075494"/>
+ </g>
+</svg>
