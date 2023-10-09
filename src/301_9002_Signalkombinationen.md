@@ -34,7 +34,7 @@ Für Sk-Vorsignale und Vorsignalwiederholer werden
 - am Regelgleis Donauwörth – Augsburg und am Gegengleis Augsburg –
 Donauwörth hochstehende runde
 
-Signalschirme verwendet. 
+Signalschirme verwendet.
 
 ## (5) Mastschilder
 
@@ -42,16 +42,16 @@ Die Sk–Signale werden wie folgt durch Mastschilder gekennzeichnet:
 
 - Sk-Hauptsignale durch ein rotes Mastschild,
 
-BILD
+![](assets/301_9002/301_9002_1.svg)
 
 - Sk–Vorsignale und Sk–Vorsignalwiederholer durch ein gelbes Mastschild,
 
-BILD
+![](assets/301_9002/301_9002_2.svg)
 
 - Sk-Hauptsignale mit Vorsignalfunktion durch ein rotes Mastschild und
 darunter ein gelbes Mastschild.
 
-BILD
+![](assets/301_9002/301_9002_3.svg)
 
 An einem durch ein rotes Mastschild gekennzeichneten Lichtsignal, das Halt
 zeigt oder gestört ist, dürfen Züge nur auf Signal Zs 1, Zs 7, Zs 8 oder Befehl
@@ -73,7 +73,7 @@ vorbeifahren.
 
 Ein grünes Licht.
 
-BILD
+![](assets/301_9002/301_9002_Sk1.svg)
 
 ## (3) Geschwindigkeit
 
@@ -93,7 +93,7 @@ Das Signal erlaubt die Fahrt mit der im Fahrplan zugelassenen Geschwindigkeit.
 
 Ein gelbes Licht.
 
-BILD
+![](assets/301_9002/301_9002_Sk2.svg)
 
 ## (3)
 
