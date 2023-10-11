@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="4.2249mm" height="27.889mm" version="1.1" viewBox="0 0 4.2249 27.889" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath437">
+   <path transform="translate(-2.5e-5 2.5e-5)" d="m257.64 386.48h12v68.16h-12z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-59.778 -83.538)">
+  <path d="m61.023 111.39h1.6933v-4.2757h-1.6933z" fill="#807d7d"/>
+  <path d="m61.023 107.11h1.6933v4.2757h-1.6933z" fill="none" stroke="#2b2625" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".0762"/>
+  <path d="m59.816 107.49h4.1487v-23.918h-4.1487z" fill="#fff"/>
+  <path transform="matrix(.35278 0 0 -.35278 -31.116 243.92)" d="m257.76 454.52h11.76v-67.8h-11.76z" clip-path="url(#clipPath437)" fill="none" stroke="#2b2625" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".216"/>
+  <g fill="#2b2625">
+   <path d="m59.816 90.075h4.1487v-3.3867h-4.1487z"/>
+   <path d="m59.816 96.869h4.1487v-3.3867h-4.1487z"/>
+   <path d="m59.816 103.64h4.1487v-3.3867h-4.1487z"/>
+  </g>
+ </g>
+</svg>

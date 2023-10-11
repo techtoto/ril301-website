@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="8.1915mm" height="28.93mm" version="1.1" viewBox="0 0 8.1915 28.93" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath680">
+   <path transform="translate(-2.5e-5 2.5e-5)" d="m251.99 400.59h23.22v10.74h-23.22z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-39.119 -67.67)">
+  <path d="m42.485 96.563h1.397v-25.739h-1.397z" fill="#7e7e7e"/>
+  <path d="m42.485 70.824h1.397v25.739h-1.397z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074789"/>
+  <path d="m39.204 83.334h8.0222v-11.197h-8.0222z" fill="#fff"/>
+  <path d="m39.204 72.136h8.0222v11.197h-8.0222z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074789"/>
+  <text transform="scale(1.0079 .99211)" x="39.483162" y="82.779655" font-size="4.2px" stroke-width=".35" xml:space="preserve"><tspan x="39.483162" y="82.779655" fill="#1e1917" font-family="Arial" font-size="12.789px" font-stretch="condensed" stroke-width=".35">P</tspan></text>
+  <path d="m39.162 71.353h8.1068v-3.6407h-8.1068z" fill="#fff"/>
+  <path transform="matrix(.35278 0 0 -.35278 -49.777 212.78)" d="m252.11 411.21h22.98v-10.32h-22.98z" clip-path="url(#clipPath680)" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".282"/>
+  <path d="m39.627 71.332h1.4817v-3.6195h-1.4817z" fill="#1e1917"/>
+  <path d="m45.406 71.332h1.4605v-3.6195h-1.4605z" fill="#1e1917"/>
+ </g>
+</svg>

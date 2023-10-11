@@ -41,7 +41,7 @@ Ist bei Eisenbahnen des Bundes der Abstand der Überwachungssignale vom
 Bahnübergang um mehr als 5 % kürzer als der Bremsweg der Strecke, ist
 dies am Überwachungssignal durch ein rückstrahlendes, auf der Spitze stehendes weißes Dreieck mit schwarzem Rand gekennzeichnet.
 
-BILD
+![](assets/301_1501/301_1501_1.svg)
 
 ## (6)
 
@@ -50,7 +50,7 @@ Bahnübergang um mehr als 5 % kürzer als der Bremsweg der Strecke, so ist
 dies bei Signal gemäß Abschnitt 2 Absatz 3 durch ein weißes Zusatzlicht am
 linken Rand des Signalschirms kenntlich.
 
-BILD
+![](assets/301_1501/301_1501_2.svg)
 
 
 ## (7) Überwachungssignalwiederholer
@@ -62,7 +62,7 @@ Die Scheibe ist rückstrahlend.
 
 Bei den Eisenbahnen des Bundes sind Scheibe und Umrandung rückstrahlend.
 
-BILD
+![](assets/301_1501/301_1501_3.svg)
 
 ## (8) DS 301
 
@@ -94,12 +94,12 @@ Eine runde gelbe Scheibe in einer gelben Umrahmung über einem schwarz-weiß sch
 
 Scheibe, Umrahmung und Mastschild sind rückstrahlend.
 
-BILD
+![](assets/301_1501/301_1501_Bü0_1.svg)
 
 Anstatt der Scheibe und der gelben Umrahmung kann das Signal auch zwei
-waagerecht angeordnete gelbe Lichter bzw. rückstrahlende Scheiben zeigen. 
+waagerecht angeordnete gelbe Lichter bzw. rückstrahlende Scheiben zeigen.
 
-BILD
+![](assets/301_1501/301_1501_Bü0_2.svg)
 
 ## (3) DS 301
 
@@ -109,7 +109,7 @@ zeigen.
 
 Das gelbe Licht kann bei den NE auf Strecken mit einer zulässigen Geschwindigkeit bis zu 60 km/h entfallen.
 
-BILD
+![](assets/301_1501/301_1501_Bü0_3.svg)
 
 ---
 
@@ -126,12 +126,12 @@ Umrahmung über einem schwarz-weiß schräg gestreiften Mastschild.
 
 Scheibe, Umrahmung und Mastschild sind rückstrahlend.
 
-BILD
+![](assets/301_1501/301_1501_Bü1_1_animated.svg)
 
 Anstatt des weißen Blinklichts über der Scheibe in der Umrahmung kann das
-Signal Bü 1 auch ein weißes Licht über zwei waagerecht angeordneten gelben Lichtern bzw. rückstrahlenden Scheiben zeigen. 
+Signal Bü 1 auch ein weißes Licht über zwei waagerecht angeordneten gelben Lichtern bzw. rückstrahlenden Scheiben zeigen.
 
-BILD
+![](assets/301_1501/301_1501_Bü1_2.svg)
 
 ## (3) DS 301
 
@@ -140,7 +140,7 @@ blinkendes weißes Licht über einem schwarz-weiß schräg gestreiften rückstra
 Licht und einem schwarz-weiß schräg gestreiften rückstrahlenden Mastschild
 zeigen.
 
-BILD
+![](assets/301_1501/301_1501_Bü1_3_animated.svg)
 
 ## (4) DV 301
 
@@ -166,7 +166,7 @@ Das Mastschild darf bis auf weiteres auch nicht rückstrahlend sein.
 
 Eine rechteckige schwarze Tafel mit vier auf den Spitzen übereinander stehenden rückstrahlenden weißen Rauten.
 
-BILD
+![](assets/301_1501/301_1501_Bü2_1.svg)
 
 ## (3)
 
@@ -193,7 +193,7 @@ Rautentafeln vor dem Überwachungssignal.
 
 Die in Fahrtrichtung letzte Rautentafel steht etwa 100 m vor dem Überwachungssignal, die anderen Rautentafeln stehen in je 75 m Abstand voneinander davor.
 
-BILD
+![](assets/301_1501/301_1501_Bü2_2.svg)
 
 ## (8) Aufstellung im verkürzten Abstand des Bremswegs der Strecke
 
@@ -203,7 +203,7 @@ Dreieck mit schwarzem Rand.
 
 Bei beschränktem Raum kann das Dreieck vor dem Signal Bü 2 stehen.
 
-BILD
+![](assets/301_1501/301_1501_Bü2_3.svg)
 
 ---
 
@@ -217,7 +217,7 @@ BILD
 
 Eine rechteckige, weiße rückstrahlende Tafel mit drei waagerechten, schwarzen Streifen.
 
-BILD
+![](assets/301_1501/301_1501_So15.svg)
 
 ## (3) Mehrere Bahnübergänge
 
@@ -252,7 +252,7 @@ festgelegten Bremsweges zuzüglich doppelt soviel Meter, wie die Geschwindigkeit
 
 Eine schwarz-weiß waagerecht gestreifte rückstrahlende Tafel.
 
-BILD
+![](assets/301_1501/301_1501_Bü3.svg)
 
 ## (3)
 
@@ -277,7 +277,7 @@ sein. Hierfür gilt Abschnitt 8.
 
 Ein schwarz-weiß waagerecht gestreifter Pfahl.
 
-BILD
+![](assets/301_1501/301_1501_So14.svg)
 
 ## (3)
 
@@ -307,7 +307,7 @@ Eine schwarz umrandete gelbe, rückstrahlende Bü-Ankündetafel am Anfang
 der Einschaltstrecke weist auf die Lage des zugehörigen Bahnübergangs mit
 Blinklichtern oder Lichtzeichen hin.
 
-BILD
+![](assets/301_1501/301_1501_4.svg)
 
 ## (3)
 
@@ -319,7 +319,7 @@ Bei einer Ankündigung nach Absatz 2 ist unmittelbar vor dem zugehörigen
 Bahnübergang mit Blinklichtern oder Lichtzeichen eine weiße, rückstrahlende
 Bü-Kennzeichentafel aufgestellt.
 
-BILD
+![](assets/301_1501/301_1501_5.svg)
 
 ## (5) gemeinsame Einschaltstrecke
 
@@ -327,19 +327,18 @@ Der Anfang einer gemeinsamen Einschaltstrecke für mehrere Bahnübergänge
 mit Blinklichtern oder Lichtzeichen wird über der Bü-Ankündetafel für den ersten zugehörigen Bahnübergang durch eine weiße rückstrahlende Tafel mit
 schwarzer Aufschrift “Bü/Bü” angezeigt.
 
-BILD
+![](assets/301_1501/301_1501_6.svg)
 
 Innerhalb einer gemeinsamen Einschaltstrecke ist vor jedem zugehörigen
 Bahnübergang außer der Bü-Kennzeichentafel die Bü-Ankündetafel für den
 folgenden zugehörigen Bahnübergang aufgestellt.
 
-BILD
-
+![](assets/301_1501/301_1501_7.svg)
 
 Der letzte zugehörige Bahnübergang mit Blinklichtern oder Lichtzeichen ist
 nach Absatz 4 gekennzeichnet.
 
-BILD
+![](assets/301_1501/301_1501_8.svg)
 
 ---
 
@@ -352,6 +351,8 @@ BILD
 ## (2) Beschreibung
 
 Eine rechteckige weiße Tafel mit schwarzem P oder eine rechteckige schwarze Tafel mit weißem Rand und weißem P.
+
+![](assets/301_1501/301_1501_Bü4_1.svg)
 
 ## (3) Aufstellung
 
@@ -370,7 +371,7 @@ Pfeiftafel hinter dem Halteplatz des Zuges wiederholt.
 Über der vor dem Halteplatz stehenden Pfeiftafel ist dann eine rechteckige
 weiße Tafel mit zwei senkrechten schwarzen Streifen angebracht; die Pfeiftafel gilt nur für Züge, die vor dem Bahnübergang nicht halten.
 
-BILD
+![](assets/301_1501/301_1501_Bü4_2.svg)
 
 ## (5) Beleuchtung
 
@@ -388,7 +389,7 @@ Das Signal ist rückstrahlend oder beleuchtet, wenn der Betrieb es erfordert.
 
 Zwei weiße Tafeln mit schwarzem P senkrecht übereinander.
 
-BILD
+![](assets/301_1501/301_1501_Pf2.svg)
 
 ## (3)
 
@@ -457,7 +458,7 @@ Der Eisenbahninfrastrukturunternehmer darf bestimmen, dass auf Schmalspurbahnen 
 
 Eine rechteckige weiße Tafel mit schwarzem L.
 
-BILD
+![](assets/301_1501/301_1501_Bü5.svg)
 
 ## (3)
 

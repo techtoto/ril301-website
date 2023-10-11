@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="35.17mm" height="25.772mm" version="1.1" viewBox="0 0 35.17 25.772" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath656">
+   <path transform="translate(-2.5e-5 2.5e-5)" d="m290.03 620.37h23.46v33.18h-23.46z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-30.145 -70.574)">
+  <path d="m30.182 82.253h8.1703v-11.578h-8.1703z" fill="#fff"/>
+  <path d="m30.182 70.675h8.1703v11.578h-8.1703z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075494"/>
+  <path d="m33.59 96.244h1.4182v-13.97h-1.4182z" fill="#7e7e7e"/>
+  <path d="m33.59 82.274h1.4182v13.97h-1.4182z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075494"/>
+  <text transform="scale(.99881 1.0012)" x="30.790609" y="81.119492" font-size="4.2384px" stroke-width=".3532" xml:space="preserve"><tspan x="30.790609" y="81.119492" fill="#1e1917" font-family="Arial" font-size="13.129px" font-stretch="condensed" stroke-width=".3532">P</tspan></text>
+  <path d="m60.515 96.308h1.4182v-14.372h-1.4182z" fill="#7e7e7e"/>
+  <path d="m60.515 81.936h1.4182v14.372h-1.4182z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075494"/>
+  <path d="m57.107 82.19h8.1703v-11.578h-8.1703z" fill="#fff"/>
+  <path transform="matrix(.35278 0 0 -.35278 -45.273 301.13)" d="m290.21 653.43h23.16v-32.82h-23.16z" clip-path="url(#clipPath656)" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".214"/>
+  <path d="m57.403 81.936h7.5777v-11.028h-7.5777z" fill="#1e1917"/>
+  <text transform="scale(.99881 1.0012)" x="57.746704" y="80.865829" fill="#ffffff" font-size="4.2384px" stroke-width=".3532" xml:space="preserve"><tspan x="57.746704" y="80.865829" fill="#ffffff" font-family="Arial" font-size="13.129px" font-stretch="condensed" stroke-width=".3532">P</tspan></text>
+ </g>
+</svg>

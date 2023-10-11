@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="5.5457mm" height="29.607mm" version="1.1" viewBox="0 0 5.5457 29.607" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath359">
+   <path transform="translate(0 2.5e-5)" d="m233.16 593.66h15.72v72.42h-15.72z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-52.37 -76.659)">
+  <path transform="matrix(.35278 0 0 -.35278 -29.884 311.64)" d="m233.4 665.84h15.24v-71.76h-15.24z" clip-path="url(#clipPath359)" fill="#fff" stroke="#2b2625" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".49"/>
+  <path d="m54.317 106.23h1.6298v-4.0852h-1.6298z" fill="#807d7d"/>
+  <path d="m54.317 102.14h1.6298v4.0852h-1.6298z" fill="none" stroke="#2b2625" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074789"/>
+  <path d="m53.174 101.3h3.937v-23.855h-3.937z" fill="#2b2625"/>
+  <path d="m53.174 77.442h3.937v23.855h-3.937z" fill="none" stroke="#2b2625" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074789"/>
+  <g fill="#fff" fill-rule="evenodd">
+   <path d="m55.164 77.358-1.9685 3.048 1.9685 2.921 1.9473-2.9633-1.9473-3.0057"/>
+   <path d="m55.164 83.327-1.9685 3.0268 1.9685 2.9422 1.9473-2.9633-1.9473-3.0057"/>
+   <path d="m55.164 89.296-1.9685 3.0268 1.9685 2.9422 1.9473-2.9633-1.9473-3.0057"/>
+   <path d="m55.164 95.265-1.9685 3.0268 1.9685 2.9422 1.9473-2.9633-1.9473-3.0057"/>
+  </g>
+ </g>
+</svg>

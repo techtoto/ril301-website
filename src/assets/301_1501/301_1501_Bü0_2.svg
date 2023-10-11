@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="13.197mm" height="52.017mm" version="1.1" viewBox="0 0 13.197 52.017" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-61.119 -110.33)">
+  <path d="m66.955 160.45h1.524v-26.437h-1.524z" fill="#7e7e7e"/>
+  <path d="m66.955 134.01h1.524v26.437h-1.524z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074083"/>
+  <g fill-rule="evenodd" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074083">
+   <path d="m62.32 110.37h10.816l1.143 1.2065v22.733h-13.123v-22.733l1.1642-1.2065" fill="#7e7e7e"/>
+   <path d="m64.775 127.81h0.08467l0.08467 0.0212c1.9523 0.25647 1.8673 3.0159-0.08467 3.175h-0.16933c-1.9653-0.14217-2.0295-2.9482-0.08467-3.175l0.08467-0.0212h0.08467" fill="#f4f015"/>
+   <path d="m70.596 127.81h0.0635l0.08467 0.0212c1.9607 0.21872 1.8965 3.0402-0.08467 3.175h-0.14817c-1.9826-0.13406-2.0345-2.9633-0.08467-3.175l0.08467-0.0212h0.08467" fill="#f4f015"/>
+  </g>
+  <path d="m67.696 113.4h0.16933l0.0635 0.0212c0.73307 0.0674 1.3374 0.75071 1.3547 1.4817v0.16934c-0.01376 0.75635-0.65405 1.451-1.4182 1.5028l-0.08467 0.0212h-0.16933c-1.9692-0.20215-2.0412-2.9065-0.08467-3.1962z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074083"/>
+  <path d="m66.299 162.31h2.9845v-24.977h-2.9845z" fill="#fff"/>
+  <path d="m66.299 137.34h2.9845v24.977h-2.9845z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074083"/>
+  <g fill="#1e1917" fill-rule="evenodd">
+   <path d="m66.299 138.84 2.9845 1.5028v3.0057l-2.9845-1.4817v-3.0268"/>
+   <path d="m66.299 144.83 2.9845 1.5028v3.0268l-2.9845-1.5028v-3.0268"/>
+   <path d="m66.299 150.82 2.9845 1.5028v3.0268l-2.9845-1.5028v-3.0268"/>
+   <path d="m66.299 156.81 2.9845 1.5028v3.0268l-2.9845-1.5028v-3.0268"/>
+  </g>
+ </g>
+</svg>

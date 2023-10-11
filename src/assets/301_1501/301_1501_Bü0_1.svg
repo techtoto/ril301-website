@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="11.631mm" height="52.229mm" version="1.1" viewBox="0 0 11.631 52.229" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath157">
+   <path transform="translate(0 2.5e-5)" d="m224.51 574.71h33v60.18h-33z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-60.854 -79.64)">
+  <path d="m66.141 131.83h1.524v-31.136h-1.524z" fill="#7e7e7e"/>
+  <path d="m66.141 100.7h1.524v31.136h-1.524z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074083"/>
+  <path d="m60.891 100.78h11.557v-21.103h-11.557z" fill="#7e7e7e"/>
+  <path transform="matrix(.35278 0 0 -.35278 -18.353 303.61)" d="m224.63 634.77h32.76v-59.82h-32.76z" clip-path="url(#clipPath157)" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".21"/>
+  <path d="m62.585 80.481h8.0857v0.762h-8.0857zm8.0857 0h0.381v0.381h-0.381zm-0.381 0.381h0.762v18.775h-0.762zm0.762 0m-0.381 18.775h0.381v0.381h-0.381zm0.381 0m-0.381 0.381h-8.0857v-0.762h8.0857zm-8.0857 0h-0.381v-0.381h0.381zm0.381-0.381h-0.762v-18.775h0.762zm-0.762 0m0.381-18.775h-0.381v-0.381h0.381z" fill="#f4f015"/>
+  <path d="m66.649 93.879h0.23283c2.7968 0.41734 2.6903 4.3124-0.127 4.572h-0.23283c-2.8187-0.25682-2.9217-4.1592-0.127-4.572h0.254" fill="#f4f015" fill-rule="evenodd"/>
+  <path d="m66.649 82.767h0.08467l0.08467 0.02117c1.9593 0.24518 1.8965 3.0247-0.08467 3.175h-0.16933c-1.96-0.15558-2.0172-2.9468-0.0635-3.175l0.0635-0.02117z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074083"/>
+  <path d="m66.119 127.41h1.5028v-25.442h-1.5028z" fill="#fff"/>
+  <path d="m66.119 101.97h1.5028v25.442h-1.5028z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074083"/>
+  <g fill="#1e1917">
+   <path d="m66.119 103.72 1.5028 1.4817v4.7625l-1.5028-1.6298v-4.6143" fill-rule="evenodd"/>
+   <path d="m66.119 113.48 1.5028 1.4817v4.7625l-1.5028-1.651v-4.5932" fill-rule="evenodd"/>
+   <path d="m66.119 127.41h1.5028v-5.9267h-1.5028z"/>
+  </g>
+ </g>
+</svg>

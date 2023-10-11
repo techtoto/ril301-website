@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="13.495mm" height="52.209mm" version="1.1" viewBox="0 0 13.495 52.209" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-60.06 -75.671)">
+  <path d="m66.025 125.98h1.5663v-26.543h-1.5663z" fill="#7e7e7e"/>
+  <path d="m66.025 99.437h1.5663v26.543h-1.5663z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075142"/>
+  <g>
+   <g fill-rule="evenodd" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075142">
+    <path d="m61.283 75.708h11.049l1.1853 1.2277v22.818h-13.42v-22.818l1.1853-1.2277" fill="#7e7e7e"/>
+    <path d="m63.802 93.214h0.08467l0.08467 0.02117c1.9868 0.24518 1.9114 3.0275-0.08467 3.1962h-0.16933c-2.0059-0.16792-2.0895-2.9478-0.08467-3.1962l0.08467-0.02117h0.08467" fill="#f4f015"/>
+    <path d="m69.75 93.214h0.08467l0.0635 0.02117c2.001 0.21943 1.9452 3.023-0.0635 3.1962h-0.16933c-2.0055-0.14887-2.0955-2.9633-0.08467-3.1962l0.08467-0.02117h0.08467" fill="#f4f015"/>
+    <path d="m66.787 78.735h0.08467l0.08467 0.02117c2.0024 0.27129 1.9138 3.0088-0.08467 3.1962h-0.16933c-2.0348-0.20249-2.0694-2.9397-0.08467-3.1962l0.08467-0.02117h0.08467" fill="#fff"/>
+   </g>
+   <path d="m65.347 127.84h3.0692v-25.061h-3.0692z" fill="#fff"/>
+  </g>
+  <path d="m65.347 102.78h3.0692v25.061h-3.0692z" fill="none" stroke="#1e1917" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".075142"/>
+  <g fill="#1e1917" fill-rule="evenodd">
+   <path d="m65.347 104.28 3.0692 1.5028v3.0268l-3.0692-1.5028v-3.0268"/>
+   <path d="m65.347 110.3 3.0692 1.5028v3.0268l-3.0692-1.5028v-3.0268"/>
+   <path d="m65.347 116.31 3.0692 1.5028v3.0268l-3.0692-1.5028v-3.0268"/>
+   <path d="m65.347 122.32 3.0692 1.5028v3.048l-3.0692-1.5028v-3.048"/>
+  </g>
+ </g>
+</svg>

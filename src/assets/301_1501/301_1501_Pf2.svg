@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="7.1441mm" height="27.147mm" version="1.1" viewBox="0 0 7.1441 27.147" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clipPath713">
+   <path transform="translate(-2.5e-5 2.5e-5)" d="m230.94 637.7h20.22v28.44h-20.22z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-37.003 -65.024)">
+  <path d="m39.961 92.134h1.2277v-17.357h-1.2277z" fill="#807d7d"/>
+  <path d="m39.961 74.777h1.2277v17.357h-1.2277z" fill="none" stroke="#2b2625" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074436"/>
+  <path d="m37.082 74.968h7.0273v-9.906h-7.0273z" fill="#fff"/>
+  <path transform="matrix(.35278 0 0 -.35278 -44.452 300.02)" d="m231.12 666.02h19.92v-28.08h-19.92z" clip-path="url(#clipPath713)" fill="none" stroke="#2b2625" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".211"/>
+  <text transform="scale(1.0014 .99856)" x="37.55751" y="74.015472" font-size="4.2272px" stroke-width=".35227" xml:space="preserve"><tspan x="37.55751" y="74.015472" fill="#2b2625" font-family="Arial" font-size="11.263px" font-stretch="condensed" stroke-width=".35227">P</tspan></text>
+  <path d="m37.04 85.614h7.0273v-9.9272h-7.0273z" fill="#fff"/>
+  <path d="m37.04 75.687h7.0273v9.9272h-7.0273z" fill="none" stroke="#2b2625" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".074436"/>
+  <text transform="scale(1.0014 .99856)" x="37.515236" y="84.656425" font-size="4.2272px" stroke-width=".35227" xml:space="preserve"><tspan x="37.515236" y="84.656425" fill="#000000" font-family="Arial" font-size="11.263px" font-stretch="condensed" stroke-width=".35227">P</tspan></text>
+ </g>
+</svg>
